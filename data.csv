@@ -1,0 +1,501 @@
+Internship_ID,Title,Skills,Location,Duration,Stipend,Mode
+1,AI Research Intern,"Linux, Bash, DevOps, Git",Delhi,2 Months,"₹5,000",Remote
+2,DevOps Intern,"Java, Spring Boot, REST API",Hyderabad,3 Months,"₹5,000",Hybrid
+3,DevOps Intern,"Linux, Bash, DevOps, Git",Chennai,1 Month,"₹15,000",Remote
+4,Digital Marketing Intern,"HTML, CSS, JavaScript, React",Bangalore,4 Months,Unpaid,Hybrid
+5,Machine Learning Intern,"Linux, Bash, DevOps, Git",Delhi,2 Months,"₹20,000",Remote
+6,Web Developer Intern,"Java, Spring Boot, REST API",Hyderabad,2 Months,"₹20,000",Remote
+7,Backend Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Remote,1 Month,"₹5,000",In-Office
+8,Software Developer Intern,"Power BI, Excel, Data Visualization",Kolkata,1 Month,"₹25,000",Remote
+9,Backend Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Remote,4 Months,"₹5,000",In-Office
+10,Cloud Computing Intern,"AI, Computer Vision, PyTorch",Mumbai,2 Months,"₹20,000",Hybrid
+11,Frontend Engineer Intern,"Social Media, SEO, Analytics",Bangalore,2 Months,"₹10,000",Hybrid
+12,Cloud Computing Intern,"Cloud, AWS, Docker, Kubernetes",Hyderabad,6 Months,"₹25,000",Hybrid
+13,Network Engineer Intern,"HTML, CSS, JavaScript, React",Kolkata,1 Month,"₹15,000",Remote
+14,Data Analyst Intern,"Data Analysis, Pandas, NumPy",Delhi,4 Months,"₹25,000",Hybrid
+15,Mobile App Developer Intern,"Networking, Cisco, Switching",Remote,4 Months,"₹25,000",In-Office
+16,IoT Developer Intern,"HTML, CSS, JavaScript, React",Kolkata,4 Months,"₹5,000",Hybrid
+17,Software Developer Intern,"Networking, Cisco, Switching",Hyderabad,2 Months,"₹10,000",Remote
+18,Machine Learning Intern,"Networking, Cisco, Switching",Delhi,3 Months,"₹25,000",Remote
+19,Digital Marketing Intern,"Cybersecurity, Networking, Firewalls",Pune,6 Months,"₹10,000",Hybrid
+20,Mobile App Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,3 Months,"₹5,000",Hybrid
+21,AI Research Intern,"Java, Spring Boot, REST API",Remote,6 Months,"₹5,000",In-Office
+22,Cloud Computing Intern,"Python, SQL, Excel",Hyderabad,3 Months,"₹10,000",Hybrid
+23,Web Developer Intern,"Power BI, Excel, Data Visualization",Bangalore,2 Months,"₹10,000",In-Office
+24,Cybersecurity Intern,"Social Media, SEO, Analytics",Hyderabad,1 Month,"₹5,000",Remote
+25,AI Research Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,3 Months,"₹20,000",Hybrid
+26,IoT Developer Intern,"Cloud, AWS, Docker, Kubernetes",Chennai,3 Months,"₹25,000",Remote
+27,Data Analyst Intern,"Java, Spring Boot, REST API",Kolkata,1 Month,"₹5,000",Hybrid
+28,Mobile App Developer Intern,"TensorFlow, Deep Learning, NLP",Kolkata,4 Months,Unpaid,In-Office
+29,Machine Learning Intern,"AI, Computer Vision, PyTorch",Delhi,2 Months,"₹10,000",In-Office
+30,Digital Marketing Intern,"Cloud, AWS, Docker, Kubernetes",Bangalore,1 Month,Unpaid,Remote
+31,AI Research Intern,"Machine Learning, Python, Pandas, Scikit-learn",Mumbai,2 Months,"₹25,000",Hybrid
+32,Frontend Engineer Intern,"Python, SQL, Excel",Delhi,3 Months,Unpaid,Hybrid
+33,Business Analyst Intern,"Cybersecurity, Networking, Firewalls",Chennai,4 Months,"₹25,000",In-Office
+34,Backend Developer Intern,"Python, SQL, Excel",Bangalore,3 Months,"₹15,000",Hybrid
+35,Network Engineer Intern,"Data Analysis, Pandas, NumPy",Hyderabad,1 Month,"₹5,000",In-Office
+36,Frontend Engineer Intern,"Cybersecurity, Networking, Firewalls",Bangalore,2 Months,"₹15,000",In-Office
+37,Cybersecurity Intern,"Social Media, SEO, Analytics",Remote,6 Months,"₹5,000",Remote
+38,Mobile App Developer Intern,"AI, Computer Vision, PyTorch",Pune,3 Months,Unpaid,In-Office
+39,DevOps Intern,"IoT, Raspberry Pi, Arduino, Sensors",Delhi,3 Months,"₹20,000",Hybrid
+40,Backend Developer Intern,"Android, Kotlin, Firebase",Chennai,6 Months,"₹15,000",Remote
+41,Mobile App Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Pune,6 Months,"₹20,000",Remote
+42,Network Engineer Intern,"Social Media, SEO, Analytics",Hyderabad,6 Months,"₹25,000",Remote
+43,Machine Learning Intern,"Linux, Bash, DevOps, Git",Bangalore,1 Month,"₹10,000",Remote
+44,Cybersecurity Intern,"Social Media, SEO, Analytics",Bangalore,1 Month,"₹20,000",Remote
+45,Data Analyst Intern,"Cybersecurity, Networking, Firewalls",Bangalore,4 Months,"₹20,000",In-Office
+46,Cloud Computing Intern,"Cloud, AWS, Docker, Kubernetes",Mumbai,3 Months,"₹20,000",In-Office
+47,Machine Learning Intern,"AI, Computer Vision, PyTorch",Remote,6 Months,Unpaid,Remote
+48,Cloud Computing Intern,"Android, Kotlin, Firebase",Pune,2 Months,"₹15,000",In-Office
+49,Frontend Engineer Intern,"AI, Computer Vision, PyTorch",Hyderabad,6 Months,"₹15,000",Hybrid
+50,Machine Learning Intern,"HTML, CSS, JavaScript, React",Delhi,1 Month,"₹10,000",In-Office
+51,AI Research Intern,"IoT, Raspberry Pi, Arduino, Sensors",Bangalore,1 Month,"₹25,000",Remote
+52,Network Engineer Intern,"Java, Spring Boot, REST API",Pune,3 Months,"₹25,000",In-Office
+53,Machine Learning Intern,"Python, SQL, Excel",Chennai,2 Months,"₹10,000",In-Office
+54,DevOps Intern,"HTML, CSS, JavaScript, React",Mumbai,3 Months,"₹5,000",Remote
+55,IoT Developer Intern,"AI, Computer Vision, PyTorch",Remote,6 Months,"₹20,000",Hybrid
+56,DevOps Intern,"Python, SQL, Excel",Chennai,4 Months,Unpaid,Hybrid
+57,Backend Developer Intern,"HTML, CSS, JavaScript, React",Hyderabad,4 Months,"₹10,000",In-Office
+58,Cloud Computing Intern,"Android, Kotlin, Firebase",Mumbai,2 Months,Unpaid,Remote
+59,Machine Learning Intern,"Data Analysis, Pandas, NumPy",Remote,1 Month,"₹25,000",Remote
+60,Data Analyst Intern,"Machine Learning, Python, Pandas, Scikit-learn",Mumbai,3 Months,Unpaid,Remote
+61,Cloud Computing Intern,"AI, Computer Vision, PyTorch",Kolkata,6 Months,"₹10,000",Hybrid
+62,Digital Marketing Intern,"Power BI, Excel, Data Visualization",Delhi,6 Months,"₹20,000",In-Office
+63,Cloud Computing Intern,"Power BI, Excel, Data Visualization",Hyderabad,6 Months,"₹5,000",In-Office
+64,Business Analyst Intern,"AI, Computer Vision, PyTorch",Mumbai,6 Months,"₹25,000",Hybrid
+65,Machine Learning Intern,"Java, Spring Boot, REST API",Delhi,3 Months,"₹15,000",Remote
+66,Business Analyst Intern,"TensorFlow, Deep Learning, NLP",Pune,1 Month,Unpaid,In-Office
+67,Web Developer Intern,"Social Media, SEO, Analytics",Delhi,6 Months,"₹10,000",In-Office
+68,DevOps Intern,"Python, SQL, Excel",Bangalore,6 Months,"₹15,000",In-Office
+69,IoT Developer Intern,"C++, OOP, Data Structures",Pune,4 Months,"₹20,000",In-Office
+70,Software Developer Intern,"TensorFlow, Deep Learning, NLP",Remote,1 Month,Unpaid,In-Office
+71,Network Engineer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,4 Months,"₹5,000",Hybrid
+72,Data Science Intern,"AI, Computer Vision, PyTorch",Delhi,2 Months,Unpaid,Hybrid
+73,IoT Developer Intern,"Cloud, AWS, Docker, Kubernetes",Hyderabad,6 Months,"₹5,000",Remote
+74,Frontend Engineer Intern,"Python, SQL, Excel",Mumbai,6 Months,"₹15,000",In-Office
+75,Cybersecurity Intern,"TensorFlow, Deep Learning, NLP",Chennai,6 Months,"₹25,000",Remote
+76,Business Analyst Intern,"AI, Computer Vision, PyTorch",Kolkata,6 Months,"₹5,000",Remote
+77,Business Analyst Intern,"Cloud, AWS, Docker, Kubernetes",Delhi,6 Months,"₹25,000",Remote
+78,Business Analyst Intern,"C++, OOP, Data Structures",Chennai,1 Month,Unpaid,Remote
+79,Mobile App Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Delhi,6 Months,"₹25,000",Hybrid
+80,Machine Learning Intern,"Power BI, Excel, Data Visualization",Kolkata,6 Months,"₹20,000",Hybrid
+81,Business Analyst Intern,"Machine Learning, Python, Pandas, Scikit-learn",Chennai,6 Months,"₹25,000",Hybrid
+82,Network Engineer Intern,"AI, Computer Vision, PyTorch",Bangalore,6 Months,"₹20,000",In-Office
+83,Data Analyst Intern,"C++, OOP, Data Structures",Hyderabad,6 Months,"₹10,000",Hybrid
+84,AI Research Intern,"Java, Spring Boot, REST API",Bangalore,1 Month,"₹15,000",In-Office
+85,Software Developer Intern,"Android, Kotlin, Firebase",Pune,2 Months,"₹5,000",In-Office
+86,Data Science Intern,"Data Analysis, Pandas, NumPy",Kolkata,3 Months,"₹25,000",Hybrid
+87,DevOps Intern,"HTML, CSS, JavaScript, React",Delhi,3 Months,"₹25,000",Remote
+88,Backend Developer Intern,"Power BI, Excel, Data Visualization",Pune,3 Months,"₹5,000",Hybrid
+89,Network Engineer Intern,"AI, Computer Vision, PyTorch",Hyderabad,2 Months,"₹15,000",Remote
+90,Digital Marketing Intern,"C++, OOP, Data Structures",Kolkata,3 Months,"₹10,000",Remote
+91,Machine Learning Intern,"IoT, Raspberry Pi, Arduino, Sensors",Pune,2 Months,"₹25,000",Hybrid
+92,AI Research Intern,"Data Analysis, Pandas, NumPy",Hyderabad,4 Months,Unpaid,In-Office
+93,Backend Developer Intern,"AI, Computer Vision, PyTorch",Kolkata,3 Months,"₹25,000",Hybrid
+94,DevOps Intern,"Linux, Bash, DevOps, Git",Pune,3 Months,"₹25,000",Remote
+95,Data Analyst Intern,"Power BI, Excel, Data Visualization",Delhi,6 Months,"₹15,000",In-Office
+96,IoT Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Delhi,1 Month,"₹20,000",Remote
+97,Data Science Intern,"Power BI, Excel, Data Visualization",Chennai,6 Months,Unpaid,Remote
+98,Data Science Intern,"AI, Computer Vision, PyTorch",Mumbai,2 Months,"₹15,000",Hybrid
+99,Business Analyst Intern,"Machine Learning, Python, Pandas, Scikit-learn",Pune,1 Month,"₹25,000",In-Office
+100,Cybersecurity Intern,"Social Media, SEO, Analytics",Delhi,3 Months,"₹20,000",Hybrid
+101,Digital Marketing Intern,"Networking, Cisco, Switching",Kolkata,2 Months,"₹10,000",Remote
+102,AI Research Intern,"Cybersecurity, Networking, Firewalls",Pune,6 Months,"₹5,000",Remote
+103,Digital Marketing Intern,"Social Media, SEO, Analytics",Bangalore,4 Months,"₹5,000",In-Office
+104,Network Engineer Intern,"Cybersecurity, Networking, Firewalls",Chennai,6 Months,Unpaid,Hybrid
+105,Backend Developer Intern,"AI, Computer Vision, PyTorch",Mumbai,3 Months,Unpaid,Remote
+106,DevOps Intern,"Cloud, AWS, Docker, Kubernetes",Kolkata,1 Month,"₹10,000",In-Office
+107,IoT Developer Intern,"Social Media, SEO, Analytics",Kolkata,3 Months,"₹15,000",Remote
+108,Mobile App Developer Intern,"TensorFlow, Deep Learning, NLP",Remote,3 Months,"₹5,000",In-Office
+109,Mobile App Developer Intern,"Data Analysis, Pandas, NumPy",Remote,2 Months,"₹20,000",In-Office
+110,Data Analyst Intern,"IoT, Raspberry Pi, Arduino, Sensors",Hyderabad,6 Months,"₹15,000",Remote
+111,Cybersecurity Intern,"HTML, CSS, JavaScript, React",Pune,4 Months,"₹25,000",Remote
+112,Frontend Engineer Intern,"Social Media, SEO, Analytics",Remote,1 Month,"₹5,000",In-Office
+113,AI Research Intern,"Python, SQL, Excel",Delhi,4 Months,"₹5,000",Hybrid
+114,Business Analyst Intern,"Cloud, AWS, Docker, Kubernetes",Chennai,6 Months,"₹15,000",Hybrid
+115,Mobile App Developer Intern,"C++, OOP, Data Structures",Delhi,6 Months,Unpaid,Remote
+116,Web Developer Intern,"Data Analysis, Pandas, NumPy",Delhi,6 Months,"₹5,000",In-Office
+117,IoT Developer Intern,"TensorFlow, Deep Learning, NLP",Bangalore,4 Months,"₹5,000",Hybrid
+118,AI Research Intern,"Networking, Cisco, Switching",Chennai,2 Months,Unpaid,In-Office
+119,DevOps Intern,"Cybersecurity, Networking, Firewalls",Bangalore,4 Months,"₹20,000",Remote
+120,Cloud Computing Intern,"HTML, CSS, JavaScript, React",Remote,4 Months,"₹25,000",Hybrid
+121,Cloud Computing Intern,"Social Media, SEO, Analytics",Kolkata,1 Month,"₹20,000",Hybrid
+122,Business Analyst Intern,"IoT, Raspberry Pi, Arduino, Sensors",Remote,3 Months,"₹25,000",Hybrid
+123,DevOps Intern,"Data Analysis, Pandas, NumPy",Chennai,4 Months,"₹5,000",Hybrid
+124,Data Science Intern,"IoT, Raspberry Pi, Arduino, Sensors",Remote,4 Months,Unpaid,Remote
+125,AI Research Intern,"Data Analysis, Pandas, NumPy",Delhi,6 Months,"₹10,000",Hybrid
+126,Data Analyst Intern,"C++, OOP, Data Structures",Bangalore,2 Months,"₹5,000",Hybrid
+127,Cloud Computing Intern,"Social Media, SEO, Analytics",Remote,4 Months,"₹10,000",Hybrid
+128,Cloud Computing Intern,"C++, OOP, Data Structures",Remote,2 Months,"₹25,000",In-Office
+129,DevOps Intern,"C++, OOP, Data Structures",Remote,1 Month,"₹20,000",In-Office
+130,Cloud Computing Intern,"Cybersecurity, Networking, Firewalls",Kolkata,2 Months,"₹5,000",In-Office
+131,Software Developer Intern,"Cybersecurity, Networking, Firewalls",Bangalore,4 Months,Unpaid,Hybrid
+132,IoT Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Bangalore,3 Months,"₹20,000",Hybrid
+133,Cloud Computing Intern,"Cybersecurity, Networking, Firewalls",Pune,1 Month,"₹10,000",Hybrid
+134,Network Engineer Intern,"Linux, Bash, DevOps, Git",Remote,6 Months,"₹15,000",Remote
+135,AI Research Intern,"Social Media, SEO, Analytics",Pune,3 Months,Unpaid,Hybrid
+136,Data Analyst Intern,"Android, Kotlin, Firebase",Hyderabad,6 Months,"₹15,000",Hybrid
+137,Web Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,1 Month,"₹20,000",Hybrid
+138,Software Developer Intern,"Cloud, AWS, Docker, Kubernetes",Hyderabad,2 Months,"₹25,000",Remote
+139,DevOps Intern,"Social Media, SEO, Analytics",Delhi,6 Months,"₹10,000",Hybrid
+140,Data Science Intern,"Social Media, SEO, Analytics",Hyderabad,1 Month,"₹10,000",Remote
+141,AI Research Intern,"Android, Kotlin, Firebase",Kolkata,3 Months,"₹20,000",Remote
+142,DevOps Intern,"Python, SQL, Excel",Mumbai,1 Month,"₹10,000",Remote
+143,Digital Marketing Intern,"AI, Computer Vision, PyTorch",Chennai,4 Months,"₹5,000",Hybrid
+144,DevOps Intern,"TensorFlow, Deep Learning, NLP",Remote,1 Month,"₹10,000",Hybrid
+145,Mobile App Developer Intern,"Java, Spring Boot, REST API",Delhi,4 Months,"₹25,000",Remote
+146,Data Analyst Intern,"Android, Kotlin, Firebase",Bangalore,4 Months,"₹15,000",In-Office
+147,Machine Learning Intern,"IoT, Raspberry Pi, Arduino, Sensors",Bangalore,2 Months,"₹25,000",Hybrid
+148,Network Engineer Intern,"Networking, Cisco, Switching",Remote,1 Month,"₹5,000",In-Office
+149,AI Research Intern,"IoT, Raspberry Pi, Arduino, Sensors",Kolkata,3 Months,Unpaid,Remote
+150,Mobile App Developer Intern,"Cloud, AWS, Docker, Kubernetes",Pune,2 Months,"₹10,000",Remote
+151,DevOps Intern,"Machine Learning, Python, Pandas, Scikit-learn",Bangalore,6 Months,"₹20,000",Remote
+152,DevOps Intern,"Cybersecurity, Networking, Firewalls",Kolkata,3 Months,"₹20,000",Hybrid
+153,Mobile App Developer Intern,"Cloud, AWS, Docker, Kubernetes",Kolkata,6 Months,"₹20,000",Remote
+154,Frontend Engineer Intern,"Cybersecurity, Networking, Firewalls",Mumbai,1 Month,"₹10,000",In-Office
+155,Network Engineer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,4 Months,"₹25,000",Remote
+156,Digital Marketing Intern,"Cybersecurity, Networking, Firewalls",Remote,6 Months,"₹20,000",Remote
+157,AI Research Intern,"Networking, Cisco, Switching",Chennai,4 Months,Unpaid,Hybrid
+158,Backend Developer Intern,"Linux, Bash, DevOps, Git",Pune,1 Month,"₹25,000",In-Office
+159,Web Developer Intern,"Social Media, SEO, Analytics",Mumbai,3 Months,Unpaid,In-Office
+160,Data Science Intern,"Linux, Bash, DevOps, Git",Remote,2 Months,"₹10,000",Hybrid
+161,Mobile App Developer Intern,"Data Analysis, Pandas, NumPy",Hyderabad,4 Months,"₹10,000",Remote
+162,Cloud Computing Intern,"Android, Kotlin, Firebase",Mumbai,6 Months,"₹5,000",In-Office
+163,Digital Marketing Intern,"Machine Learning, Python, Pandas, Scikit-learn",Mumbai,4 Months,"₹5,000",In-Office
+164,Mobile App Developer Intern,"C++, OOP, Data Structures",Pune,1 Month,"₹25,000",Hybrid
+165,IoT Developer Intern,"Java, Spring Boot, REST API",Chennai,3 Months,"₹20,000",Hybrid
+166,DevOps Intern,"AI, Computer Vision, PyTorch",Mumbai,2 Months,"₹10,000",In-Office
+167,Web Developer Intern,"TensorFlow, Deep Learning, NLP",Delhi,6 Months,"₹5,000",Remote
+168,Data Analyst Intern,"Machine Learning, Python, Pandas, Scikit-learn",Chennai,2 Months,"₹25,000",Hybrid
+169,Digital Marketing Intern,"Machine Learning, Python, Pandas, Scikit-learn",Delhi,4 Months,"₹20,000",Remote
+170,Network Engineer Intern,"TensorFlow, Deep Learning, NLP",Hyderabad,4 Months,"₹20,000",Remote
+171,AI Research Intern,"Machine Learning, Python, Pandas, Scikit-learn",Pune,3 Months,"₹20,000",In-Office
+172,Data Science Intern,"Linux, Bash, DevOps, Git",Delhi,4 Months,"₹10,000",Hybrid
+173,Data Science Intern,"Data Analysis, Pandas, NumPy",Remote,3 Months,Unpaid,Hybrid
+174,AI Research Intern,"Android, Kotlin, Firebase",Kolkata,6 Months,"₹5,000",In-Office
+175,Web Developer Intern,"Data Analysis, Pandas, NumPy",Bangalore,3 Months,"₹5,000",Remote
+176,AI Research Intern,"Android, Kotlin, Firebase",Remote,3 Months,"₹25,000",Hybrid
+177,DevOps Intern,"Data Analysis, Pandas, NumPy",Chennai,2 Months,Unpaid,Hybrid
+178,DevOps Intern,"Data Analysis, Pandas, NumPy",Kolkata,1 Month,"₹15,000",Remote
+179,Cybersecurity Intern,"C++, OOP, Data Structures",Bangalore,6 Months,"₹10,000",In-Office
+180,Digital Marketing Intern,"Android, Kotlin, Firebase",Remote,6 Months,"₹10,000",Remote
+181,IoT Developer Intern,"Python, SQL, Excel",Pune,4 Months,"₹25,000",Remote
+182,IoT Developer Intern,"C++, OOP, Data Structures",Hyderabad,3 Months,"₹5,000",Remote
+183,Digital Marketing Intern,"Power BI, Excel, Data Visualization",Pune,1 Month,"₹25,000",In-Office
+184,Frontend Engineer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Chennai,6 Months,Unpaid,Remote
+185,Cloud Computing Intern,"Data Analysis, Pandas, NumPy",Remote,2 Months,Unpaid,Hybrid
+186,DevOps Intern,"Power BI, Excel, Data Visualization",Delhi,4 Months,"₹5,000",Remote
+187,Data Science Intern,"TensorFlow, Deep Learning, NLP",Kolkata,1 Month,"₹5,000",Hybrid
+188,Mobile App Developer Intern,"Linux, Bash, DevOps, Git",Bangalore,1 Month,Unpaid,Hybrid
+189,Software Developer Intern,"TensorFlow, Deep Learning, NLP",Pune,6 Months,Unpaid,Remote
+190,Machine Learning Intern,"AI, Computer Vision, PyTorch",Mumbai,1 Month,"₹15,000",In-Office
+191,Cybersecurity Intern,"HTML, CSS, JavaScript, React",Delhi,6 Months,"₹20,000",Remote
+192,Data Science Intern,"Machine Learning, Python, Pandas, Scikit-learn",Delhi,6 Months,"₹20,000",In-Office
+193,IoT Developer Intern,"AI, Computer Vision, PyTorch",Hyderabad,3 Months,Unpaid,Hybrid
+194,Software Developer Intern,"Android, Kotlin, Firebase",Bangalore,1 Month,"₹20,000",Hybrid
+195,Frontend Engineer Intern,"Cloud, AWS, Docker, Kubernetes",Remote,1 Month,"₹25,000",Hybrid
+196,Network Engineer Intern,"Cloud, AWS, Docker, Kubernetes",Remote,4 Months,"₹20,000",Remote
+197,AI Research Intern,"HTML, CSS, JavaScript, React",Delhi,6 Months,Unpaid,In-Office
+198,Digital Marketing Intern,"Java, Spring Boot, REST API",Chennai,4 Months,"₹10,000",Hybrid
+199,Machine Learning Intern,"Data Analysis, Pandas, NumPy",Delhi,6 Months,"₹10,000",Hybrid
+200,AI Research Intern,"C++, OOP, Data Structures",Delhi,1 Month,"₹25,000",Hybrid
+201,Data Analyst Intern,"Java, Spring Boot, REST API",Hyderabad,2 Months,"₹15,000",Remote
+202,Data Science Intern,"Java, Spring Boot, REST API",Pune,6 Months,"₹15,000",Hybrid
+203,DevOps Intern,"HTML, CSS, JavaScript, React",Chennai,4 Months,"₹10,000",Remote
+204,Cloud Computing Intern,"Networking, Cisco, Switching",Hyderabad,2 Months,"₹25,000",Remote
+205,Data Analyst Intern,"Android, Kotlin, Firebase",Chennai,4 Months,"₹15,000",In-Office
+206,Mobile App Developer Intern,"Social Media, SEO, Analytics",Mumbai,1 Month,"₹15,000",In-Office
+207,Web Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Bangalore,1 Month,Unpaid,Remote
+208,IoT Developer Intern,"Cloud, AWS, Docker, Kubernetes",Hyderabad,2 Months,"₹15,000",In-Office
+209,Network Engineer Intern,"C++, OOP, Data Structures",Mumbai,1 Month,"₹25,000",In-Office
+210,Backend Developer Intern,"Python, SQL, Excel",Bangalore,3 Months,"₹25,000",Remote
+211,DevOps Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,3 Months,"₹5,000",In-Office
+212,Software Developer Intern,"Social Media, SEO, Analytics",Remote,1 Month,"₹25,000",Hybrid
+213,Network Engineer Intern,"Power BI, Excel, Data Visualization",Kolkata,4 Months,"₹25,000",Remote
+214,DevOps Intern,"AI, Computer Vision, PyTorch",Chennai,1 Month,"₹15,000",Remote
+215,Mobile App Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Hyderabad,1 Month,Unpaid,Remote
+216,Web Developer Intern,"Java, Spring Boot, REST API",Remote,4 Months,"₹10,000",Hybrid
+217,DevOps Intern,"Python, SQL, Excel",Delhi,2 Months,Unpaid,Hybrid
+218,Software Developer Intern,"Power BI, Excel, Data Visualization",Chennai,4 Months,"₹15,000",Hybrid
+219,Business Analyst Intern,"C++, OOP, Data Structures",Bangalore,2 Months,"₹25,000",In-Office
+220,Backend Developer Intern,"Cybersecurity, Networking, Firewalls",Kolkata,1 Month,"₹25,000",Hybrid
+221,Software Developer Intern,"Power BI, Excel, Data Visualization",Bangalore,4 Months,"₹10,000",In-Office
+222,Mobile App Developer Intern,"Networking, Cisco, Switching",Kolkata,6 Months,"₹5,000",In-Office
+223,IoT Developer Intern,"Python, SQL, Excel",Delhi,3 Months,Unpaid,In-Office
+224,Machine Learning Intern,"Linux, Bash, DevOps, Git",Bangalore,4 Months,Unpaid,In-Office
+225,Digital Marketing Intern,"Cloud, AWS, Docker, Kubernetes",Bangalore,2 Months,"₹5,000",Hybrid
+226,Machine Learning Intern,"TensorFlow, Deep Learning, NLP",Bangalore,2 Months,Unpaid,Hybrid
+227,Data Analyst Intern,"Android, Kotlin, Firebase",Remote,1 Month,"₹15,000",Remote
+228,Frontend Engineer Intern,"Cloud, AWS, Docker, Kubernetes",Hyderabad,3 Months,"₹25,000",Remote
+229,Backend Developer Intern,"Java, Spring Boot, REST API",Kolkata,2 Months,"₹20,000",Remote
+230,Software Developer Intern,"Networking, Cisco, Switching",Chennai,2 Months,"₹15,000",In-Office
+231,Business Analyst Intern,"Power BI, Excel, Data Visualization",Mumbai,2 Months,"₹25,000",Hybrid
+232,Cloud Computing Intern,"Cloud, AWS, Docker, Kubernetes",Kolkata,6 Months,"₹5,000",In-Office
+233,Mobile App Developer Intern,"Linux, Bash, DevOps, Git",Mumbai,2 Months,"₹20,000",Hybrid
+234,Mobile App Developer Intern,"Python, SQL, Excel",Delhi,4 Months,"₹15,000",In-Office
+235,Backend Developer Intern,"Social Media, SEO, Analytics",Hyderabad,1 Month,"₹5,000",In-Office
+236,Digital Marketing Intern,"TensorFlow, Deep Learning, NLP",Pune,4 Months,"₹20,000",Hybrid
+237,Software Developer Intern,"C++, OOP, Data Structures",Hyderabad,4 Months,"₹25,000",In-Office
+238,DevOps Intern,"Android, Kotlin, Firebase",Pune,6 Months,Unpaid,Hybrid
+239,Cloud Computing Intern,"Python, SQL, Excel",Pune,1 Month,"₹15,000",Hybrid
+240,Frontend Engineer Intern,"Cloud, AWS, Docker, Kubernetes",Kolkata,6 Months,Unpaid,Hybrid
+241,Machine Learning Intern,"TensorFlow, Deep Learning, NLP",Mumbai,3 Months,"₹20,000",In-Office
+242,Mobile App Developer Intern,"Power BI, Excel, Data Visualization",Hyderabad,6 Months,"₹25,000",In-Office
+243,Data Science Intern,"IoT, Raspberry Pi, Arduino, Sensors",Chennai,2 Months,"₹5,000",Hybrid
+244,Machine Learning Intern,"Android, Kotlin, Firebase",Hyderabad,6 Months,"₹10,000",Remote
+245,AI Research Intern,"Android, Kotlin, Firebase",Kolkata,1 Month,"₹5,000",Hybrid
+246,IoT Developer Intern,"Python, SQL, Excel",Pune,3 Months,"₹5,000",In-Office
+247,IoT Developer Intern,"Cloud, AWS, Docker, Kubernetes",Bangalore,4 Months,"₹5,000",In-Office
+248,Mobile App Developer Intern,"C++, OOP, Data Structures",Remote,2 Months,"₹15,000",Remote
+249,Mobile App Developer Intern,"AI, Computer Vision, PyTorch",Chennai,2 Months,"₹25,000",In-Office
+250,DevOps Intern,"Networking, Cisco, Switching",Mumbai,1 Month,"₹20,000",Hybrid
+251,AI Research Intern,"Android, Kotlin, Firebase",Mumbai,6 Months,Unpaid,Hybrid
+252,Software Developer Intern,"HTML, CSS, JavaScript, React",Chennai,2 Months,"₹15,000",Hybrid
+253,Web Developer Intern,"Cybersecurity, Networking, Firewalls",Bangalore,1 Month,Unpaid,In-Office
+254,AI Research Intern,"HTML, CSS, JavaScript, React",Remote,1 Month,"₹15,000",Hybrid
+255,Data Analyst Intern,"TensorFlow, Deep Learning, NLP",Pune,6 Months,"₹5,000",Remote
+256,Digital Marketing Intern,"Data Analysis, Pandas, NumPy",Kolkata,6 Months,"₹20,000",Hybrid
+257,Frontend Engineer Intern,"Networking, Cisco, Switching",Mumbai,4 Months,"₹5,000",Remote
+258,AI Research Intern,"Cloud, AWS, Docker, Kubernetes",Kolkata,2 Months,Unpaid,Hybrid
+259,IoT Developer Intern,"Power BI, Excel, Data Visualization",Bangalore,1 Month,"₹5,000",Hybrid
+260,Software Developer Intern,"Cybersecurity, Networking, Firewalls",Pune,1 Month,"₹5,000",In-Office
+261,DevOps Intern,"Social Media, SEO, Analytics",Kolkata,4 Months,"₹15,000",In-Office
+262,Digital Marketing Intern,"Cloud, AWS, Docker, Kubernetes",Mumbai,2 Months,"₹15,000",Hybrid
+263,Mobile App Developer Intern,"Power BI, Excel, Data Visualization",Mumbai,3 Months,"₹25,000",Hybrid
+264,Data Science Intern,"IoT, Raspberry Pi, Arduino, Sensors",Mumbai,1 Month,"₹15,000",Hybrid
+265,Web Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Hyderabad,3 Months,Unpaid,Remote
+266,Cybersecurity Intern,"Linux, Bash, DevOps, Git",Pune,4 Months,"₹20,000",Remote
+267,Digital Marketing Intern,"Networking, Cisco, Switching",Kolkata,6 Months,"₹5,000",Hybrid
+268,IoT Developer Intern,"Cloud, AWS, Docker, Kubernetes",Remote,4 Months,"₹5,000",In-Office
+269,Frontend Engineer Intern,"HTML, CSS, JavaScript, React",Kolkata,4 Months,"₹20,000",Remote
+270,Frontend Engineer Intern,"HTML, CSS, JavaScript, React",Delhi,2 Months,Unpaid,Remote
+271,Business Analyst Intern,"Cloud, AWS, Docker, Kubernetes",Delhi,4 Months,"₹5,000",Hybrid
+272,Network Engineer Intern,"Python, SQL, Excel",Pune,1 Month,"₹25,000",Hybrid
+273,DevOps Intern,"C++, OOP, Data Structures",Kolkata,4 Months,"₹20,000",Remote
+274,Web Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Mumbai,1 Month,"₹5,000",In-Office
+275,Web Developer Intern,"TensorFlow, Deep Learning, NLP",Bangalore,2 Months,"₹15,000",In-Office
+276,Cloud Computing Intern,"AI, Computer Vision, PyTorch",Bangalore,2 Months,"₹15,000",Remote
+277,IoT Developer Intern,"Power BI, Excel, Data Visualization",Mumbai,3 Months,"₹20,000",Remote
+278,Digital Marketing Intern,"Networking, Cisco, Switching",Bangalore,6 Months,"₹10,000",In-Office
+279,Business Analyst Intern,"IoT, Raspberry Pi, Arduino, Sensors",Pune,2 Months,"₹25,000",Hybrid
+280,Network Engineer Intern,"Social Media, SEO, Analytics",Chennai,2 Months,"₹25,000",In-Office
+281,Digital Marketing Intern,"Java, Spring Boot, REST API",Remote,2 Months,"₹10,000",Hybrid
+282,Mobile App Developer Intern,"Linux, Bash, DevOps, Git",Bangalore,1 Month,Unpaid,Remote
+283,Digital Marketing Intern,"Java, Spring Boot, REST API",Chennai,2 Months,Unpaid,Hybrid
+284,Backend Developer Intern,"Java, Spring Boot, REST API",Delhi,1 Month,"₹10,000",Hybrid
+285,Software Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Pune,4 Months,Unpaid,Remote
+286,Cloud Computing Intern,"HTML, CSS, JavaScript, React",Kolkata,2 Months,"₹5,000",Remote
+287,Backend Developer Intern,"Data Analysis, Pandas, NumPy",Hyderabad,6 Months,"₹15,000",Hybrid
+288,Machine Learning Intern,"Social Media, SEO, Analytics",Chennai,4 Months,"₹10,000",Remote
+289,Backend Developer Intern,"Java, Spring Boot, REST API",Hyderabad,4 Months,Unpaid,Hybrid
+290,Web Developer Intern,"Java, Spring Boot, REST API",Kolkata,2 Months,"₹25,000",In-Office
+291,IoT Developer Intern,"Android, Kotlin, Firebase",Kolkata,4 Months,"₹25,000",In-Office
+292,AI Research Intern,"Cloud, AWS, Docker, Kubernetes",Bangalore,2 Months,"₹15,000",Remote
+293,Machine Learning Intern,"Python, SQL, Excel",Hyderabad,6 Months,"₹15,000",In-Office
+294,AI Research Intern,"Java, Spring Boot, REST API",Mumbai,6 Months,"₹10,000",In-Office
+295,Frontend Engineer Intern,"Power BI, Excel, Data Visualization",Remote,1 Month,Unpaid,In-Office
+296,Web Developer Intern,"TensorFlow, Deep Learning, NLP",Kolkata,1 Month,"₹5,000",Remote
+297,AI Research Intern,"Cloud, AWS, Docker, Kubernetes",Hyderabad,2 Months,"₹15,000",In-Office
+298,AI Research Intern,"Data Analysis, Pandas, NumPy",Bangalore,3 Months,"₹15,000",Hybrid
+299,Mobile App Developer Intern,"Power BI, Excel, Data Visualization",Kolkata,1 Month,"₹5,000",In-Office
+300,IoT Developer Intern,"TensorFlow, Deep Learning, NLP",Pune,3 Months,"₹25,000",Remote
+301,Cloud Computing Intern,"Networking, Cisco, Switching",Mumbai,6 Months,"₹15,000",In-Office
+302,IoT Developer Intern,"Power BI, Excel, Data Visualization",Chennai,2 Months,Unpaid,Remote
+303,Digital Marketing Intern,"Python, SQL, Excel",Chennai,4 Months,Unpaid,In-Office
+304,Cloud Computing Intern,"Linux, Bash, DevOps, Git",Hyderabad,6 Months,"₹20,000",In-Office
+305,Frontend Engineer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Kolkata,3 Months,"₹15,000",In-Office
+306,DevOps Intern,"HTML, CSS, JavaScript, React",Kolkata,2 Months,"₹20,000",Remote
+307,Data Science Intern,"HTML, CSS, JavaScript, React",Bangalore,3 Months,"₹15,000",Hybrid
+308,Data Science Intern,"Social Media, SEO, Analytics",Chennai,4 Months,"₹5,000",In-Office
+309,Data Analyst Intern,"Android, Kotlin, Firebase",Pune,1 Month,"₹5,000",In-Office
+310,Software Developer Intern,"Networking, Cisco, Switching",Remote,6 Months,Unpaid,Hybrid
+311,Business Analyst Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,1 Month,"₹15,000",Hybrid
+312,Web Developer Intern,"AI, Computer Vision, PyTorch",Bangalore,4 Months,"₹5,000",Hybrid
+313,Mobile App Developer Intern,"Python, SQL, Excel",Remote,3 Months,"₹10,000",Hybrid
+314,Business Analyst Intern,"Machine Learning, Python, Pandas, Scikit-learn",Chennai,3 Months,Unpaid,Hybrid
+315,AI Research Intern,"Machine Learning, Python, Pandas, Scikit-learn",Bangalore,2 Months,Unpaid,Hybrid
+316,Data Analyst Intern,"Networking, Cisco, Switching",Chennai,2 Months,"₹5,000",Remote
+317,Mobile App Developer Intern,"Linux, Bash, DevOps, Git",Mumbai,3 Months,"₹5,000",Hybrid
+318,Software Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Kolkata,2 Months,Unpaid,Remote
+319,AI Research Intern,"AI, Computer Vision, PyTorch",Kolkata,6 Months,"₹20,000",Hybrid
+320,Mobile App Developer Intern,"Social Media, SEO, Analytics",Mumbai,3 Months,"₹20,000",In-Office
+321,DevOps Intern,"Power BI, Excel, Data Visualization",Hyderabad,1 Month,"₹25,000",In-Office
+322,Digital Marketing Intern,"HTML, CSS, JavaScript, React",Remote,4 Months,Unpaid,Remote
+323,Data Analyst Intern,"C++, OOP, Data Structures",Kolkata,4 Months,Unpaid,In-Office
+324,Data Science Intern,"AI, Computer Vision, PyTorch",Pune,3 Months,"₹10,000",Remote
+325,Software Developer Intern,"Java, Spring Boot, REST API",Bangalore,1 Month,"₹25,000",In-Office
+326,Backend Developer Intern,"TensorFlow, Deep Learning, NLP",Kolkata,3 Months,"₹20,000",Hybrid
+327,Data Science Intern,"IoT, Raspberry Pi, Arduino, Sensors",Pune,4 Months,"₹15,000",In-Office
+328,Machine Learning Intern,"TensorFlow, Deep Learning, NLP",Delhi,4 Months,"₹10,000",In-Office
+329,IoT Developer Intern,"Networking, Cisco, Switching",Hyderabad,1 Month,"₹25,000",Remote
+330,Mobile App Developer Intern,"C++, OOP, Data Structures",Remote,3 Months,"₹10,000",Hybrid
+331,Business Analyst Intern,"Android, Kotlin, Firebase",Mumbai,1 Month,"₹5,000",Hybrid
+332,Cybersecurity Intern,"Power BI, Excel, Data Visualization",Mumbai,6 Months,"₹10,000",In-Office
+333,Backend Developer Intern,"C++, OOP, Data Structures",Bangalore,2 Months,"₹25,000",Remote
+334,Digital Marketing Intern,"Data Analysis, Pandas, NumPy",Remote,6 Months,"₹15,000",Remote
+335,Data Analyst Intern,"HTML, CSS, JavaScript, React",Bangalore,6 Months,"₹10,000",Hybrid
+336,Digital Marketing Intern,"Python, SQL, Excel",Mumbai,1 Month,"₹15,000",In-Office
+337,Network Engineer Intern,"Networking, Cisco, Switching",Pune,3 Months,"₹5,000",Hybrid
+338,Software Developer Intern,"Data Analysis, Pandas, NumPy",Delhi,6 Months,"₹20,000",Hybrid
+339,Data Analyst Intern,"TensorFlow, Deep Learning, NLP",Bangalore,3 Months,Unpaid,Hybrid
+340,Digital Marketing Intern,"Python, SQL, Excel",Chennai,4 Months,"₹15,000",Hybrid
+341,Web Developer Intern,"HTML, CSS, JavaScript, React",Chennai,4 Months,"₹25,000",In-Office
+342,Backend Developer Intern,"Linux, Bash, DevOps, Git",Delhi,6 Months,"₹5,000",Hybrid
+343,Digital Marketing Intern,"HTML, CSS, JavaScript, React",Mumbai,4 Months,"₹15,000",Remote
+344,Mobile App Developer Intern,"TensorFlow, Deep Learning, NLP",Delhi,3 Months,"₹5,000",In-Office
+345,Network Engineer Intern,"Cybersecurity, Networking, Firewalls",Bangalore,3 Months,"₹25,000",Hybrid
+346,DevOps Intern,"TensorFlow, Deep Learning, NLP",Pune,4 Months,"₹20,000",In-Office
+347,Network Engineer Intern,"Power BI, Excel, Data Visualization",Mumbai,2 Months,"₹25,000",In-Office
+348,Digital Marketing Intern,"Power BI, Excel, Data Visualization",Delhi,6 Months,"₹25,000",Hybrid
+349,Frontend Engineer Intern,"Linux, Bash, DevOps, Git",Hyderabad,2 Months,"₹20,000",Hybrid
+350,Digital Marketing Intern,"Power BI, Excel, Data Visualization",Hyderabad,6 Months,"₹15,000",Remote
+351,Cybersecurity Intern,"Cybersecurity, Networking, Firewalls",Remote,1 Month,"₹20,000",In-Office
+352,Data Analyst Intern,"C++, OOP, Data Structures",Kolkata,4 Months,"₹20,000",Remote
+353,Digital Marketing Intern,"Cybersecurity, Networking, Firewalls",Bangalore,6 Months,"₹15,000",Remote
+354,Business Analyst Intern,"Cybersecurity, Networking, Firewalls",Chennai,6 Months,"₹20,000",Remote
+355,Cloud Computing Intern,"AI, Computer Vision, PyTorch",Mumbai,4 Months,"₹15,000",In-Office
+356,Machine Learning Intern,"TensorFlow, Deep Learning, NLP",Pune,2 Months,"₹10,000",Hybrid
+357,Business Analyst Intern,"Android, Kotlin, Firebase",Bangalore,1 Month,"₹15,000",Hybrid
+358,Cloud Computing Intern,"Android, Kotlin, Firebase",Remote,4 Months,"₹10,000",In-Office
+359,Machine Learning Intern,"Python, SQL, Excel",Kolkata,1 Month,"₹15,000",In-Office
+360,AI Research Intern,"Android, Kotlin, Firebase",Kolkata,1 Month,Unpaid,Hybrid
+361,Digital Marketing Intern,"Cybersecurity, Networking, Firewalls",Hyderabad,4 Months,"₹5,000",In-Office
+362,Mobile App Developer Intern,"HTML, CSS, JavaScript, React",Chennai,1 Month,"₹15,000",Remote
+363,Data Analyst Intern,"Java, Spring Boot, REST API",Delhi,1 Month,"₹15,000",Hybrid
+364,AI Research Intern,"Cloud, AWS, Docker, Kubernetes",Mumbai,4 Months,"₹15,000",In-Office
+365,Network Engineer Intern,"Networking, Cisco, Switching",Kolkata,2 Months,"₹10,000",Hybrid
+366,Data Analyst Intern,"AI, Computer Vision, PyTorch",Pune,2 Months,"₹15,000",In-Office
+367,AI Research Intern,"C++, OOP, Data Structures",Mumbai,4 Months,Unpaid,Hybrid
+368,Machine Learning Intern,"Networking, Cisco, Switching",Remote,1 Month,Unpaid,In-Office
+369,Software Developer Intern,"Linux, Bash, DevOps, Git",Remote,2 Months,"₹15,000",Remote
+370,Mobile App Developer Intern,"Cybersecurity, Networking, Firewalls",Kolkata,4 Months,"₹25,000",Remote
+371,Business Analyst Intern,"Cloud, AWS, Docker, Kubernetes",Delhi,4 Months,"₹20,000",Hybrid
+372,Software Developer Intern,"Networking, Cisco, Switching",Mumbai,2 Months,"₹25,000",In-Office
+373,Cloud Computing Intern,"Cybersecurity, Networking, Firewalls",Hyderabad,4 Months,"₹10,000",Hybrid
+374,Digital Marketing Intern,"Machine Learning, Python, Pandas, Scikit-learn",Kolkata,4 Months,"₹25,000",Remote
+375,Software Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Kolkata,6 Months,"₹5,000",In-Office
+376,DevOps Intern,"IoT, Raspberry Pi, Arduino, Sensors",Kolkata,3 Months,"₹10,000",In-Office
+377,Web Developer Intern,"Python, SQL, Excel",Delhi,2 Months,"₹10,000",Hybrid
+378,Cybersecurity Intern,"Cybersecurity, Networking, Firewalls",Delhi,3 Months,"₹10,000",Remote
+379,Business Analyst Intern,"Java, Spring Boot, REST API",Remote,6 Months,"₹20,000",Hybrid
+380,Network Engineer Intern,"Power BI, Excel, Data Visualization",Remote,6 Months,"₹20,000",In-Office
+381,Web Developer Intern,"Social Media, SEO, Analytics",Pune,3 Months,Unpaid,Hybrid
+382,Data Analyst Intern,"IoT, Raspberry Pi, Arduino, Sensors",Delhi,3 Months,"₹5,000",In-Office
+383,Business Analyst Intern,"Cloud, AWS, Docker, Kubernetes",Kolkata,3 Months,"₹15,000",Remote
+384,Backend Developer Intern,"Social Media, SEO, Analytics",Bangalore,3 Months,"₹15,000",Remote
+385,IoT Developer Intern,"TensorFlow, Deep Learning, NLP",Remote,3 Months,"₹15,000",Remote
+386,Backend Developer Intern,"Social Media, SEO, Analytics",Remote,2 Months,Unpaid,In-Office
+387,Mobile App Developer Intern,"Cybersecurity, Networking, Firewalls",Bangalore,6 Months,"₹25,000",Hybrid
+388,Cybersecurity Intern,"Networking, Cisco, Switching",Hyderabad,1 Month,"₹10,000",In-Office
+389,Digital Marketing Intern,"Networking, Cisco, Switching",Kolkata,1 Month,Unpaid,In-Office
+390,Machine Learning Intern,"Data Analysis, Pandas, NumPy",Pune,4 Months,"₹5,000",Hybrid
+391,Data Analyst Intern,"HTML, CSS, JavaScript, React",Remote,4 Months,"₹5,000",In-Office
+392,IoT Developer Intern,"Android, Kotlin, Firebase",Remote,2 Months,Unpaid,Remote
+393,IoT Developer Intern,"Power BI, Excel, Data Visualization",Pune,2 Months,"₹25,000",Remote
+394,Network Engineer Intern,"Data Analysis, Pandas, NumPy",Bangalore,3 Months,"₹15,000",In-Office
+395,Backend Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Delhi,4 Months,"₹20,000",Hybrid
+396,Cloud Computing Intern,"Cloud, AWS, Docker, Kubernetes",Pune,2 Months,"₹20,000",Hybrid
+397,Mobile App Developer Intern,"Power BI, Excel, Data Visualization",Hyderabad,6 Months,"₹10,000",Remote
+398,AI Research Intern,"Linux, Bash, DevOps, Git",Hyderabad,3 Months,Unpaid,Hybrid
+399,Data Analyst Intern,"TensorFlow, Deep Learning, NLP",Mumbai,6 Months,"₹10,000",In-Office
+400,Data Analyst Intern,"IoT, Raspberry Pi, Arduino, Sensors",Delhi,4 Months,"₹20,000",In-Office
+401,AI Research Intern,"Power BI, Excel, Data Visualization",Hyderabad,1 Month,"₹25,000",In-Office
+402,Web Developer Intern,"Data Analysis, Pandas, NumPy",Mumbai,2 Months,"₹20,000",Remote
+403,Digital Marketing Intern,"IoT, Raspberry Pi, Arduino, Sensors",Pune,2 Months,"₹15,000",Remote
+404,Cybersecurity Intern,"AI, Computer Vision, PyTorch",Bangalore,4 Months,"₹20,000",In-Office
+405,Frontend Engineer Intern,"Java, Spring Boot, REST API",Kolkata,2 Months,"₹10,000",Hybrid
+406,Mobile App Developer Intern,"Python, SQL, Excel",Pune,4 Months,"₹10,000",Remote
+407,Frontend Engineer Intern,"Networking, Cisco, Switching",Chennai,4 Months,"₹5,000",Hybrid
+408,Digital Marketing Intern,"Machine Learning, Python, Pandas, Scikit-learn",Kolkata,2 Months,"₹10,000",Hybrid
+409,Web Developer Intern,"C++, OOP, Data Structures",Delhi,4 Months,"₹20,000",Remote
+410,Cybersecurity Intern,"Linux, Bash, DevOps, Git",Delhi,1 Month,"₹25,000",Hybrid
+411,IoT Developer Intern,"IoT, Raspberry Pi, Arduino, Sensors",Remote,1 Month,Unpaid,Remote
+412,Web Developer Intern,"C++, OOP, Data Structures",Hyderabad,1 Month,"₹25,000",Hybrid
+413,Backend Developer Intern,"Social Media, SEO, Analytics",Mumbai,6 Months,"₹5,000",In-Office
+414,Web Developer Intern,"Cybersecurity, Networking, Firewalls",Kolkata,4 Months,"₹25,000",In-Office
+415,Business Analyst Intern,"Java, Spring Boot, REST API",Chennai,3 Months,Unpaid,Remote
+416,Frontend Engineer Intern,"HTML, CSS, JavaScript, React",Pune,6 Months,"₹10,000",In-Office
+417,Cloud Computing Intern,"AI, Computer Vision, PyTorch",Hyderabad,4 Months,"₹25,000",Remote
+418,Cybersecurity Intern,"Java, Spring Boot, REST API",Chennai,6 Months,"₹10,000",Hybrid
+419,Data Analyst Intern,"Networking, Cisco, Switching",Pune,6 Months,Unpaid,Remote
+420,Data Science Intern,"Power BI, Excel, Data Visualization",Bangalore,2 Months,Unpaid,Hybrid
+421,Data Analyst Intern,"IoT, Raspberry Pi, Arduino, Sensors",Delhi,1 Month,"₹20,000",In-Office
+422,DevOps Intern,"Java, Spring Boot, REST API",Pune,1 Month,"₹5,000",In-Office
+423,Machine Learning Intern,"Cybersecurity, Networking, Firewalls",Delhi,4 Months,"₹15,000",Remote
+424,Digital Marketing Intern,"Social Media, SEO, Analytics",Kolkata,6 Months,Unpaid,Remote
+425,Data Science Intern,"Social Media, SEO, Analytics",Remote,4 Months,"₹15,000",In-Office
+426,Cybersecurity Intern,"Machine Learning, Python, Pandas, Scikit-learn",Mumbai,4 Months,"₹5,000",Hybrid
+427,Business Analyst Intern,"Java, Spring Boot, REST API",Delhi,6 Months,"₹10,000",Remote
+428,Machine Learning Intern,"Cloud, AWS, Docker, Kubernetes",Kolkata,1 Month,"₹10,000",Hybrid
+429,Web Developer Intern,"HTML, CSS, JavaScript, React",Hyderabad,6 Months,"₹25,000",Remote
+430,Frontend Engineer Intern,"TensorFlow, Deep Learning, NLP",Chennai,4 Months,Unpaid,Hybrid
+431,Data Science Intern,"TensorFlow, Deep Learning, NLP",Pune,6 Months,Unpaid,In-Office
+432,Mobile App Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Pune,3 Months,"₹10,000",Hybrid
+433,Frontend Engineer Intern,"Power BI, Excel, Data Visualization",Mumbai,3 Months,"₹5,000",Remote
+434,Mobile App Developer Intern,"Networking, Cisco, Switching",Hyderabad,6 Months,"₹10,000",In-Office
+435,IoT Developer Intern,"Android, Kotlin, Firebase",Bangalore,4 Months,"₹25,000",In-Office
+436,Data Analyst Intern,"Networking, Cisco, Switching",Remote,4 Months,"₹5,000",In-Office
+437,IoT Developer Intern,"Linux, Bash, DevOps, Git",Delhi,3 Months,Unpaid,Hybrid
+438,Business Analyst Intern,"Linux, Bash, DevOps, Git",Chennai,1 Month,"₹10,000",Hybrid
+439,Mobile App Developer Intern,"Android, Kotlin, Firebase",Bangalore,1 Month,"₹15,000",In-Office
+440,Backend Developer Intern,"Data Analysis, Pandas, NumPy",Bangalore,3 Months,"₹10,000",In-Office
+441,Web Developer Intern,"Java, Spring Boot, REST API",Delhi,2 Months,Unpaid,In-Office
+442,Software Developer Intern,"C++, OOP, Data Structures",Kolkata,3 Months,Unpaid,Remote
+443,Frontend Engineer Intern,"Android, Kotlin, Firebase",Delhi,6 Months,"₹20,000",Remote
+444,AI Research Intern,"Cloud, AWS, Docker, Kubernetes",Delhi,1 Month,"₹20,000",Remote
+445,Web Developer Intern,"Social Media, SEO, Analytics",Bangalore,6 Months,"₹25,000",In-Office
+446,Web Developer Intern,"Social Media, SEO, Analytics",Kolkata,4 Months,"₹20,000",In-Office
+447,Cloud Computing Intern,"Java, Spring Boot, REST API",Remote,2 Months,Unpaid,In-Office
+448,Data Science Intern,"Java, Spring Boot, REST API",Chennai,1 Month,"₹5,000",Remote
+449,Software Developer Intern,"AI, Computer Vision, PyTorch",Hyderabad,2 Months,"₹20,000",Remote
+450,Data Science Intern,"C++, OOP, Data Structures",Pune,4 Months,"₹15,000",In-Office
+451,DevOps Intern,"C++, OOP, Data Structures",Kolkata,2 Months,"₹25,000",Hybrid
+452,Data Science Intern,"Power BI, Excel, Data Visualization",Delhi,4 Months,"₹20,000",Remote
+453,Data Analyst Intern,"Machine Learning, Python, Pandas, Scikit-learn",Bangalore,3 Months,Unpaid,Hybrid
+454,Data Analyst Intern,"Cybersecurity, Networking, Firewalls",Mumbai,4 Months,Unpaid,In-Office
+455,Network Engineer Intern,"Power BI, Excel, Data Visualization",Chennai,3 Months,"₹20,000",In-Office
+456,Cloud Computing Intern,"IoT, Raspberry Pi, Arduino, Sensors",Hyderabad,3 Months,"₹5,000",Hybrid
+457,Backend Developer Intern,"Cybersecurity, Networking, Firewalls",Pune,3 Months,"₹15,000",In-Office
+458,Backend Developer Intern,"Python, SQL, Excel",Delhi,3 Months,"₹10,000",In-Office
+459,Business Analyst Intern,"Networking, Cisco, Switching",Hyderabad,6 Months,"₹5,000",Hybrid
+460,Network Engineer Intern,"Networking, Cisco, Switching",Remote,4 Months,"₹15,000",Remote
+461,Machine Learning Intern,"Linux, Bash, DevOps, Git",Pune,2 Months,Unpaid,Hybrid
+462,Digital Marketing Intern,"Power BI, Excel, Data Visualization",Remote,6 Months,Unpaid,Hybrid
+463,Software Developer Intern,"Linux, Bash, DevOps, Git",Remote,6 Months,"₹5,000",Hybrid
+464,Data Science Intern,"TensorFlow, Deep Learning, NLP",Mumbai,3 Months,"₹5,000",Hybrid
+465,Digital Marketing Intern,"AI, Computer Vision, PyTorch",Pune,1 Month,"₹20,000",Hybrid
+466,Network Engineer Intern,"Python, SQL, Excel",Hyderabad,1 Month,"₹25,000",Remote
+467,Machine Learning Intern,"Networking, Cisco, Switching",Remote,3 Months,"₹10,000",In-Office
+468,Frontend Engineer Intern,"Cloud, AWS, Docker, Kubernetes",Pune,6 Months,"₹15,000",Remote
+469,Machine Learning Intern,"Android, Kotlin, Firebase",Chennai,3 Months,"₹20,000",Remote
+470,IoT Developer Intern,"Networking, Cisco, Switching",Delhi,6 Months,"₹25,000",In-Office
+471,DevOps Intern,"Python, SQL, Excel",Bangalore,3 Months,"₹10,000",Remote
+472,Cybersecurity Intern,"Android, Kotlin, Firebase",Delhi,4 Months,"₹20,000",In-Office
+473,Backend Developer Intern,"Java, Spring Boot, REST API",Pune,1 Month,"₹25,000",Remote
+474,Backend Developer Intern,"Power BI, Excel, Data Visualization",Delhi,2 Months,"₹15,000",In-Office
+475,DevOps Intern,"Java, Spring Boot, REST API",Delhi,4 Months,"₹20,000",In-Office
+476,Frontend Engineer Intern,"Social Media, SEO, Analytics",Kolkata,4 Months,"₹25,000",Remote
+477,Network Engineer Intern,"Cloud, AWS, Docker, Kubernetes",Chennai,6 Months,"₹15,000",Hybrid
+478,Digital Marketing Intern,"Data Analysis, Pandas, NumPy",Chennai,2 Months,"₹20,000",In-Office
+479,Software Developer Intern,"Python, SQL, Excel",Pune,2 Months,"₹10,000",In-Office
+480,Backend Developer Intern,"Cybersecurity, Networking, Firewalls",Bangalore,4 Months,"₹25,000",Hybrid
+481,AI Research Intern,"Networking, Cisco, Switching",Mumbai,3 Months,"₹20,000",In-Office
+482,Frontend Engineer Intern,"C++, OOP, Data Structures",Hyderabad,6 Months,"₹15,000",Remote
+483,Machine Learning Intern,"HTML, CSS, JavaScript, React",Chennai,3 Months,Unpaid,Hybrid
+484,IoT Developer Intern,"Power BI, Excel, Data Visualization",Remote,6 Months,Unpaid,Hybrid
+485,IoT Developer Intern,"Linux, Bash, DevOps, Git",Chennai,2 Months,"₹25,000",Hybrid
+486,Data Science Intern,"Java, Spring Boot, REST API",Bangalore,2 Months,Unpaid,In-Office
+487,AI Research Intern,"Social Media, SEO, Analytics",Delhi,1 Month,"₹10,000",Remote
+488,Business Analyst Intern,"Linux, Bash, DevOps, Git",Kolkata,4 Months,Unpaid,Hybrid
+489,Data Science Intern,"Social Media, SEO, Analytics",Kolkata,4 Months,"₹20,000",Hybrid
+490,Frontend Engineer Intern,"Python, SQL, Excel",Pune,3 Months,"₹15,000",In-Office
+491,Data Analyst Intern,"Android, Kotlin, Firebase",Mumbai,3 Months,"₹5,000",In-Office
+492,DevOps Intern,"Social Media, SEO, Analytics",Hyderabad,6 Months,"₹5,000",Hybrid
+493,Digital Marketing Intern,"Data Analysis, Pandas, NumPy",Mumbai,6 Months,"₹10,000",Hybrid
+494,Digital Marketing Intern,"AI, Computer Vision, PyTorch",Delhi,2 Months,"₹25,000",Hybrid
+495,Cloud Computing Intern,"AI, Computer Vision, PyTorch",Mumbai,1 Month,"₹25,000",In-Office
+496,IoT Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Pune,6 Months,Unpaid,Remote
+497,Cybersecurity Intern,"C++, OOP, Data Structures",Mumbai,3 Months,"₹20,000",Hybrid
+498,Backend Developer Intern,"C++, OOP, Data Structures",Delhi,1 Month,"₹20,000",Remote
+499,Mobile App Developer Intern,"Linux, Bash, DevOps, Git",Bangalore,2 Months,"₹20,000",Hybrid
+500,Mobile App Developer Intern,"Machine Learning, Python, Pandas, Scikit-learn",Remote,3 Months,Unpaid,In-Office
