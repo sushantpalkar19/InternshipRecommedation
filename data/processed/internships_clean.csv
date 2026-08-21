@@ -1,0 +1,601 @@
+Internship_ID,Title,Company,Description,Skills,Location,Duration,Stipend,Mode,Domain,Eligibility,Experience_Level,Application_URL,Posted_Date,Deadline,Status
+1,Web Developer Intern,HCL,"Join HCL as a Web Developer Intern. You will work on cutting-edge projects using Angular, REST API, MongoDB, SQL. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Angular, REST API, MongoDB, SQL, CSS",Bangalore,6 Months,"₹23,124/month",In-Office,Web Development,BSc/MSc,Entry Level,https://example.com/apply/1,2026-08-05,2026-09-15,Open
+2,Backend Developer Intern,Accenture,"Join Accenture as a Backend Developer Intern. You will work on cutting-edge projects using Angular, REST API, Vue. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Angular, REST API, Vue",Kolkata,6 Months,"₹16,457/month",Remote,Web Development,BCA/MCA,Advanced,https://example.com/apply/2,2026-07-26,2026-08-28,Open
+3,Machine Learning Intern,Zomato,"Join Zomato as a Machine Learning Intern. You will work on cutting-edge projects using NumPy, Deep Learning, SQL, Machine Learning. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","NumPy, Deep Learning, SQL, Machine Learning, Pandas, Python",Pune,2 Months,"₹34,184/month",Remote,Machine Learning,Any Graduate,Intermediate,https://example.com/apply/3,2026-06-26,2026-07-11,Closed
+4,Security Analyst Intern,Cisco,"Join Cisco as a Security Analyst Intern. You will work on cutting-edge projects using Cybersecurity, Linux, SIEM, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Cybersecurity, Linux, SIEM, Python",Kolkata,2 Months,"₹26,761/month",Remote,Cybersecurity,BCA/MCA,Entry Level,https://example.com/apply/4,2026-07-27,2026-09-08,Open
+5,DevOps Intern,Red Hat,"Join Red Hat as a DevOps Intern. You will work on cutting-edge projects using CI/CD, Jenkins, Ansible, Kubernetes. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","CI/CD, Jenkins, Ansible, Kubernetes",Hyderabad,6 Months,"₹16,965/month",Hybrid,Cloud,M.Tech/M.E,Intermediate,https://example.com/apply/5,2026-07-09,2026-08-16,Closed
+6,Cloud Computing Intern,Google Cloud,"Join Google Cloud as a Cloud Computing Intern. You will work on cutting-edge projects using Azure, AWS, Ansible. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Azure, AWS, Ansible",Kolkata,6 Months,"₹15,721/month",Hybrid,Cloud,BCA/MCA,Intermediate,https://example.com/apply/6,2026-08-04,2026-09-16,Open
+7,Data Analyst Intern,Deloitte,"Join Deloitte as a Data Analyst Intern. You will work on cutting-edge projects using Power BI, Pandas, Excel, NumPy. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, Pandas, Excel, NumPy, Python, SQL",Kolkata,1 Month,"₹23,676/month",Remote,Data Analysis,M.Tech/M.E,Advanced,https://example.com/apply/7,2026-07-27,2026-08-20,Closed
+8,Data Analyst Intern,McKinsey,"Join McKinsey as a Data Analyst Intern. You will work on cutting-edge projects using Tableau, Pandas, Data Visualization, Power BI. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Tableau, Pandas, Data Visualization, Power BI, Statistics",Mumbai,2 Months,"₹26,616/month",Remote,Data Analysis,BCA/MCA,Advanced,https://example.com/apply/8,2026-07-27,2026-08-11,Closed
+9,Android Developer Intern,Paytm,"Join Paytm as a Android Developer Intern. You will work on cutting-edge projects using Java, Flutter, Firebase, Kotlin. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Java, Flutter, Firebase, Kotlin",Delhi,1 Month,"₹25,611/month",Hybrid,Mobile Development,Any Graduate,Entry Level,https://example.com/apply/9,2026-06-27,2026-08-02,Closed
+10,Data Analyst Intern,Mu Sigma,"Join Mu Sigma as a Data Analyst Intern. You will work on cutting-edge projects using Power BI, Tableau, Data Visualization. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, Tableau, Data Visualization",Delhi,1 Month,"₹23,051/month",In-Office,Data Analysis,Any Graduate,Entry Level,https://example.com/apply/10,2026-08-06,2026-09-06,Open
+11,Content Marketing Intern,Omnicom,"Join Omnicom as a Content Marketing Intern. You will work on cutting-edge projects using Google Analytics, Email Marketing, Facebook Ads, Social Media. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Google Analytics, Email Marketing, Facebook Ads, Social Media, SEO",Hyderabad,3 Months,"₹11,124/month",Remote,Digital Marketing,B.Tech/B.E,Intermediate,https://example.com/apply/11,2026-07-19,2026-08-24,Open
+12,iOS Developer Intern,Meta,"Join Meta as a iOS Developer Intern. You will work on cutting-edge projects using iOS, Android, Swift. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","iOS, Android, Swift",Pune,1 Month,"₹21,724/month",Remote,Mobile Development,M.Tech/M.E,Intermediate,https://example.com/apply/12,2026-08-02,2026-09-03,Open
+13,Embedded Systems Intern,Intel,"Join Intel as a Embedded Systems Intern. You will work on cutting-edge projects using Arduino, C++, Raspberry Pi, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Arduino, C++, Raspberry Pi, Python",Remote,2 Months,"₹23,842/month",Hybrid,IoT,BCA/MCA,Advanced,https://example.com/apply/13,2026-08-20,2026-09-14,Open
+14,Social Media Intern,HubSpot,"Join HubSpot as a Social Media Intern. You will work on cutting-edge projects using Content Writing, Digital Marketing, Social Media, SEO. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Content Writing, Digital Marketing, Social Media, SEO, Google Analytics, Email Marketing",Kolkata,1 Month,"₹17,008/month",Hybrid,Digital Marketing,BSc/MSc,Intermediate,https://example.com/apply/14,2026-07-17,2026-08-04,Closed
+15,Data Analyst Intern,KPMG,"Join KPMG as a Data Analyst Intern. You will work on cutting-edge projects using SQL, Power BI, Statistics, Pandas. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SQL, Power BI, Statistics, Pandas",Delhi,3 Months,"₹16,358/month",Hybrid,Data Analysis,B.Tech/B.E,Intermediate,https://example.com/apply/15,2026-08-09,2026-08-29,Open
+16,IoT Engineer Intern,Bosch,"Join Bosch as a IoT Engineer Intern. You will work on cutting-edge projects using Arduino, C++, Raspberry Pi. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Arduino, C++, Raspberry Pi",Chennai,3 Months,"₹22,748/month",Remote,Embedded Systems,B.Tech/B.E,Intermediate,https://example.com/apply/16,2026-08-01,2026-09-15,Open
+17,Analytics Intern,Bain,"Join Bain as a Analytics Intern. You will work on cutting-edge projects using Python, Pandas, Data Visualization, Excel. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, Pandas, Data Visualization, Excel, Statistics, SQL",Hyderabad,4 Months,"₹22,567/month",Hybrid,Data Analysis,BSc/MSc,Advanced,https://example.com/apply/17,2026-07-13,2026-07-31,Closed
+18,IoT Developer Intern,Siemens,"Join Siemens as a IoT Developer Intern. You will work on cutting-edge projects using IoT, Communication Protocols, Sensors. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","IoT, Communication Protocols, Sensors",Pune,2 Months,"₹14,658/month",Remote,Embedded Systems,Any Graduate,Entry Level,https://example.com/apply/18,2026-06-24,2026-08-03,Closed
+19,Embedded Systems Intern,Texas Instruments,"Join Texas Instruments as a Embedded Systems Intern. You will work on cutting-edge projects using Python, Embedded C, Sensors, Arduino. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, Embedded C, Sensors, Arduino, C++",Kolkata,2 Months,"₹17,542/month",Remote,IoT,BCA/MCA,Intermediate,https://example.com/apply/19,2026-07-12,2026-08-26,Open
+20,IoT Developer Intern,Bosch,"Join Bosch as a IoT Developer Intern. You will work on cutting-edge projects using Python, Arduino, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, Arduino, IoT",Hyderabad,1 Month,"₹17,059/month",Hybrid,Embedded Systems,Any Graduate,Intermediate,https://example.com/apply/20,2026-08-12,2026-09-05,Open
+21,Analytics Intern,Mu Sigma,"Join Mu Sigma as a Analytics Intern. You will work on cutting-edge projects using Excel, Python, Power BI, SQL. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Excel, Python, Power BI, SQL, Tableau",Delhi,1 Month,"₹21,970/month",Remote,Data Analysis,Any Graduate,Entry Level,https://example.com/apply/21,2026-07-03,2026-07-19,Closed
+22,DevOps Intern,HashiCorp,"Join HashiCorp as a DevOps Intern. You will work on cutting-edge projects using Linux, Terraform, Jenkins, Kubernetes. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, Terraform, Jenkins, Kubernetes, GCP, Ansible",Pune,4 Months,"₹17,403/month",In-Office,DevOps,BSc/MSc,Entry Level,https://example.com/apply/22,2026-07-14,2026-08-14,Closed
+23,Analytics Intern,Fractal,"Join Fractal as a Analytics Intern. You will work on cutting-edge projects using Data Visualization, Statistics, Python, Power BI. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Data Visualization, Statistics, Python, Power BI",Pune,3 Months,"₹23,008/month",Remote,Data Analysis,BSc/MSc,Entry Level,https://example.com/apply/23,2026-07-19,2026-08-03,Closed
+24,Data Analyst Intern,Mu Sigma,"Join Mu Sigma as a Data Analyst Intern. You will work on cutting-edge projects using Statistics, Data Visualization, Power BI, Pandas. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Statistics, Data Visualization, Power BI, Pandas, Python, NumPy",Mumbai,2 Months,"₹16,010/month",In-Office,Data Science,B.Tech/B.E,Intermediate,https://example.com/apply/24,2026-08-16,2026-09-30,Open
+25,Backend Developer Intern,Cognizant,"Join Cognizant as a Backend Developer Intern. You will work on cutting-edge projects using MongoDB, REST API, SQL, CSS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","MongoDB, REST API, SQL, CSS",Kolkata,1 Month,"₹17,841/month",Remote,Web Development,Any Graduate,Entry Level,https://example.com/apply/25,2026-08-04,2026-08-31,Open
+26,AI Research Intern,Google,"Join Google as a AI Research Intern. You will work on cutting-edge projects using Statistics, PyTorch, Machine Learning, Scikit-learn. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Statistics, PyTorch, Machine Learning, Scikit-learn, SQL",Chennai,6 Months,"₹31,310/month",Hybrid,Data Science,BCA/MCA,Advanced,https://example.com/apply/26,2026-06-22,2026-07-28,Closed
+27,Data Science Intern,Zomato,"Join Zomato as a Data Science Intern. You will work on cutting-edge projects using SQL, NumPy, Deep Learning, Scikit-learn. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SQL, NumPy, Deep Learning, Scikit-learn, Pandas",Pune,6 Months,"₹23,017/month",Remote,Data Science,M.Tech/M.E,Advanced,https://example.com/apply/27,2026-07-14,2026-08-08,Closed
+28,Frontend Developer Intern,Cognizant,"Join Cognizant as a Frontend Developer Intern. You will work on cutting-edge projects using Node.js, REST API, TypeScript, JavaScript. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Node.js, REST API, TypeScript, JavaScript",Hyderabad,1 Month,"₹10,914/month",Hybrid,Web Development,Any Graduate,Advanced,https://example.com/apply/28,2026-07-13,2026-07-31,Closed
+29,Machine Learning Intern,Ola,"Join Ola as a Machine Learning Intern. You will work on cutting-edge projects using Deep Learning, TensorFlow, Pandas, Scikit-learn. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Deep Learning, TensorFlow, Pandas, Scikit-learn",Chennai,6 Months,"₹31,865/month",Hybrid,Machine Learning,B.Tech/B.E,Entry Level,https://example.com/apply/29,2026-08-02,2026-08-31,Open
+30,AI Research Intern,PhonePe,"Join PhonePe as a AI Research Intern. You will work on cutting-edge projects using Machine Learning, Deep Learning, PyTorch, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Machine Learning, Deep Learning, PyTorch, Python, Statistics, Scikit-learn",Mumbai,2 Months,"₹20,890/month",Remote,Data Science,B.Tech/B.E,Intermediate,https://example.com/apply/30,2026-07-14,2026-08-09,Closed
+31,AI Research Intern,Zomato,"Join Zomato as a AI Research Intern. You will work on cutting-edge projects using PyTorch, Machine Learning, TensorFlow, Statistics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","PyTorch, Machine Learning, TensorFlow, Statistics, Pandas, Deep Learning",Bangalore,6 Months,"₹16,880/month",Remote,Data Science,B.Tech/B.E,Entry Level,https://example.com/apply/31,2026-07-13,2026-08-17,Closed
+32,Android Developer Intern,Meta,"Join Meta as a Android Developer Intern. You will work on cutting-edge projects using React Native, Flutter, Java, Android. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","React Native, Flutter, Java, Android",Delhi,6 Months,"₹12,687/month",Hybrid,Mobile Development,B.Tech/B.E,Entry Level,https://example.com/apply/32,2026-06-28,2026-08-05,Closed
+33,Data Analyst Intern,Fractal,"Join Fractal as a Data Analyst Intern. You will work on cutting-edge projects using Data Visualization, Power BI, Pandas, NumPy. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Data Visualization, Power BI, Pandas, NumPy, Statistics",Chennai,4 Months,"₹24,886/month",Hybrid,Data Analysis,BSc/MSc,Intermediate,https://example.com/apply/33,2026-07-16,2026-08-19,Closed
+34,SEO Intern,WPP,"Join WPP as a SEO Intern. You will work on cutting-edge projects using Facebook Ads, Google Analytics, Social Media. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Facebook Ads, Google Analytics, Social Media",Delhi,1 Month,"₹11,165/month",Hybrid,Digital Marketing,Any Graduate,Entry Level,https://example.com/apply/34,2026-07-13,2026-08-03,Closed
+35,Digital Marketing Intern,Dentsu,"Join Dentsu as a Digital Marketing Intern. You will work on cutting-edge projects using Content Writing, Email Marketing, Facebook Ads, Digital Marketing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Content Writing, Email Marketing, Facebook Ads, Digital Marketing, SEO, Google Analytics",Delhi,3 Months,"₹18,025/month",Hybrid,Digital Marketing,BSc/MSc,Entry Level,https://example.com/apply/35,2026-07-26,2026-09-06,Open
+36,Cloud Computing Intern,HashiCorp,"Join HashiCorp as a Cloud Computing Intern. You will work on cutting-edge projects using Jenkins, Terraform, CI/CD, Bash. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Jenkins, Terraform, CI/CD, Bash, Ansible, AWS",Pune,4 Months,"₹16,433/month",In-Office,Cloud,Any Graduate,Intermediate,https://example.com/apply/36,2026-07-09,2026-08-19,Closed
+37,Mobile App Developer Intern,Paytm,"Join Paytm as a Mobile App Developer Intern. You will work on cutting-edge projects using Firebase, Android, Java, Flutter. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Firebase, Android, Java, Flutter, React Native",Bangalore,3 Months,"₹24,629/month",Hybrid,Mobile Development,BSc/MSc,Advanced,https://example.com/apply/37,2026-06-27,2026-07-15,Closed
+38,iOS Developer Intern,Xiaomi,"Join Xiaomi as a iOS Developer Intern. You will work on cutting-edge projects using iOS, Flutter, React Native, Android. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","iOS, Flutter, React Native, Android, Java",Hyderabad,2 Months,"₹15,265/month",Hybrid,Mobile Development,M.Tech/M.E,Entry Level,https://example.com/apply/38,2026-08-07,2026-09-08,Open
+39,iOS Developer Intern,OnePlus,"Join OnePlus as a iOS Developer Intern. You will work on cutting-edge projects using React Native, Firebase, iOS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","React Native, Firebase, iOS",Pune,2 Months,"₹24,459/month",Hybrid,Mobile Development,B.Tech/B.E,Entry Level,https://example.com/apply/39,2026-07-20,2026-08-16,Closed
+40,Site Reliability Engineer Intern,Red Hat,"Join Red Hat as a Site Reliability Engineer Intern. You will work on cutting-edge projects using Jenkins, AWS, Bash, GCP. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Jenkins, AWS, Bash, GCP",Chennai,3 Months,"₹24,454/month",Remote,Cloud,M.Tech/M.E,Entry Level,https://example.com/apply/40,2026-07-10,2026-08-19,Closed
+41,Cloud Computing Intern,AWS,"Join AWS as a Cloud Computing Intern. You will work on cutting-edge projects using Docker, Jenkins, Azure, GCP. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Docker, Jenkins, Azure, GCP, Ansible",Pune,2 Months,"₹26,566/month",Remote,Cloud,B.Tech/B.E,Intermediate,https://example.com/apply/41,2026-07-04,2026-07-24,Closed
+42,Content Marketing Intern,Omnicom,"Join Omnicom as a Content Marketing Intern. You will work on cutting-edge projects using Google Analytics, Content Writing, SEO, Facebook Ads. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Google Analytics, Content Writing, SEO, Facebook Ads, Social Media",Pune,1 Month,"₹13,232/month",Remote,Digital Marketing,BSc/MSc,Intermediate,https://example.com/apply/42,2026-07-28,2026-08-25,Open
+43,IoT Engineer Intern,Intel,"Join Intel as a IoT Engineer Intern. You will work on cutting-edge projects using IoT, Sensors, Arduino, Embedded C. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","IoT, Sensors, Arduino, Embedded C, Communication Protocols, Python",Bangalore,1 Month,"₹23,792/month",Hybrid,Embedded Systems,BSc/MSc,Advanced,https://example.com/apply/43,2026-08-11,2026-09-01,Open
+44,Network Security Intern,Check Point,"Join Check Point as a Network Security Intern. You will work on cutting-edge projects using Cybersecurity, Linux, Ethical Hacking. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Cybersecurity, Linux, Ethical Hacking",Mumbai,2 Months,"₹22,094/month",In-Office,Cybersecurity,BCA/MCA,Entry Level,https://example.com/apply/44,2026-07-05,2026-08-16,Closed
+45,AI Research Intern,Google,"Join Google as a AI Research Intern. You will work on cutting-edge projects using NumPy, PyTorch, Pandas, Statistics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","NumPy, PyTorch, Pandas, Statistics, TensorFlow",Bangalore,6 Months,"₹27,291/month",In-Office,AI,M.Tech/M.E,Intermediate,https://example.com/apply/45,2026-07-24,2026-08-21,Closed
+46,Data Analyst Intern,KPMG,"Join KPMG as a Data Analyst Intern. You will work on cutting-edge projects using Power BI, NumPy, Python, Tableau. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, NumPy, Python, Tableau, Excel, Statistics",Bangalore,4 Months,"₹19,417/month",In-Office,Data Analysis,B.Tech/B.E,Entry Level,https://example.com/apply/46,2026-07-16,2026-08-03,Closed
+47,ML Engineer Intern,Razorpay,"Join Razorpay as a ML Engineer Intern. You will work on cutting-edge projects using Pandas, Scikit-learn, NumPy, TensorFlow. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Pandas, Scikit-learn, NumPy, TensorFlow",Chennai,3 Months,"₹32,028/month",In-Office,Data Science,BCA/MCA,Intermediate,https://example.com/apply/47,2026-07-31,2026-09-13,Open
+48,AI Research Intern,PhonePe,"Join PhonePe as a AI Research Intern. You will work on cutting-edge projects using Statistics, Deep Learning, Pandas, Scikit-learn. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Statistics, Deep Learning, Pandas, Scikit-learn, PyTorch",Bangalore,4 Months,"₹30,226/month",Hybrid,AI,M.Tech/M.E,Intermediate,https://example.com/apply/48,2026-07-03,2026-07-30,Closed
+49,Data Analyst Intern,Mu Sigma,"Join Mu Sigma as a Data Analyst Intern. You will work on cutting-edge projects using Power BI, Pandas, SQL, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, Pandas, SQL, Python, Excel",Bangalore,3 Months,"₹19,922/month",Hybrid,Data Analysis,B.Tech/B.E,Intermediate,https://example.com/apply/49,2026-06-23,2026-07-10,Closed
+50,Data Analyst Intern,McKinsey,"Join McKinsey as a Data Analyst Intern. You will work on cutting-edge projects using Power BI, Pandas, SQL, NumPy. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, Pandas, SQL, NumPy",Kolkata,6 Months,"₹17,487/month",In-Office,Data Science,Any Graduate,Advanced,https://example.com/apply/50,2026-06-23,2026-08-04,Closed
+51,Frontend Developer Intern,HCL,"Join HCL as a Frontend Developer Intern. You will work on cutting-edge projects using Angular, React, CSS, SQL. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Angular, React, CSS, SQL, Node.js",Hyderabad,6 Months,"₹15,049/month",Hybrid,Web Development,M.Tech/M.E,Intermediate,https://example.com/apply/51,2026-07-22,2026-08-07,Closed
+52,Data Science Intern,Google,"Join Google as a Data Science Intern. You will work on cutting-edge projects using TensorFlow, Python, Pandas, Deep Learning. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","TensorFlow, Python, Pandas, Deep Learning",Chennai,3 Months,"₹23,188/month",Hybrid,AI,Any Graduate,Intermediate,https://example.com/apply/52,2026-07-22,2026-08-18,Closed
+53,IoT Developer Intern,Bosch,"Join Bosch as a IoT Developer Intern. You will work on cutting-edge projects using Sensors, Arduino, Raspberry Pi, Communication Protocols. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Sensors, Arduino, Raspberry Pi, Communication Protocols",Delhi,3 Months,"₹19,282/month",In-Office,Embedded Systems,B.Tech/B.E,Entry Level,https://example.com/apply/53,2026-08-07,2026-09-04,Open
+54,Android Developer Intern,Samsung,"Join Samsung as a Android Developer Intern. You will work on cutting-edge projects using Flutter, Java, React Native, Kotlin. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Flutter, Java, React Native, Kotlin",Pune,3 Months,"₹19,588/month",Remote,Mobile Development,Any Graduate,Entry Level,https://example.com/apply/54,2026-07-07,2026-07-22,Closed
+55,IoT Engineer Intern,Bosch,"Join Bosch as a IoT Engineer Intern. You will work on cutting-edge projects using Raspberry Pi, Python, C++. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Raspberry Pi, Python, C++",Chennai,2 Months,"₹22,381/month",Hybrid,IoT,BSc/MSc,Intermediate,https://example.com/apply/55,2026-06-24,2026-08-03,Closed
+56,Backend Developer Intern,Infosys,"Join Infosys as a Backend Developer Intern. You will work on cutting-edge projects using REST API, React, HTML, SQL. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","REST API, React, HTML, SQL, Node.js",Hyderabad,2 Months,"₹19,471/month",Hybrid,Web Development,Any Graduate,Advanced,https://example.com/apply/56,2026-07-28,2026-09-01,Open
+57,Digital Marketing Intern,Interpublic,"Join Interpublic as a Digital Marketing Intern. You will work on cutting-edge projects using Google Analytics, Email Marketing, Social Media, Digital Marketing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Google Analytics, Email Marketing, Social Media, Digital Marketing",Chennai,3 Months,"₹19,020/month",Remote,Digital Marketing,B.Tech/B.E,Intermediate,https://example.com/apply/57,2026-06-27,2026-07-30,Closed
+58,Embedded Systems Intern,Intel,"Join Intel as a Embedded Systems Intern. You will work on cutting-edge projects using IoT, Python, Arduino. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","IoT, Python, Arduino",Bangalore,3 Months,"₹23,448/month",In-Office,Embedded Systems,M.Tech/M.E,Advanced,https://example.com/apply/58,2026-08-07,2026-08-22,Open
+59,iOS Developer Intern,PhonePe,"Join PhonePe as a iOS Developer Intern. You will work on cutting-edge projects using Kotlin, Flutter, Android. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kotlin, Flutter, Android",Bangalore,4 Months,"₹23,357/month",In-Office,Mobile Development,Any Graduate,Intermediate,https://example.com/apply/59,2026-07-16,2026-07-31,Closed
+60,Web Developer Intern,HCL,"Join HCL as a Web Developer Intern. You will work on cutting-edge projects using JavaScript, Angular, REST API, TypeScript. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","JavaScript, Angular, REST API, TypeScript, React, SQL",Bangalore,6 Months,"₹10,840/month",Remote,Web Development,M.Tech/M.E,Intermediate,https://example.com/apply/60,2026-07-30,2026-08-25,Open
+61,Embedded Systems Intern,Intel,"Join Intel as a Embedded Systems Intern. You will work on cutting-edge projects using Embedded C, C++, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Embedded C, C++, IoT",Mumbai,4 Months,"₹10,344/month",Remote,IoT,BCA/MCA,Advanced,https://example.com/apply/61,2026-08-04,2026-09-10,Open
+62,Security Analyst Intern,McAfee,"Join McAfee as a Security Analyst Intern. You will work on cutting-edge projects using SIEM, Penetration Testing, Linux, Firewalls. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SIEM, Penetration Testing, Linux, Firewalls, Networking, Python",Hyderabad,2 Months,"₹31,647/month",Hybrid,Cybersecurity,B.Tech/B.E,Entry Level,https://example.com/apply/62,2026-08-02,2026-09-07,Open
+63,Data Science Intern,Swiggy,"Join Swiggy as a Data Science Intern. You will work on cutting-edge projects using Scikit-learn, NumPy, SQL, Statistics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Scikit-learn, NumPy, SQL, Statistics, TensorFlow",Mumbai,6 Months,"₹19,034/month",Remote,Machine Learning,BSc/MSc,Advanced,https://example.com/apply/63,2026-06-28,2026-08-06,Closed
+64,Embedded Systems Intern,NXP,"Join NXP as a Embedded Systems Intern. You will work on cutting-edge projects using C++, Arduino, Raspberry Pi, Embedded C. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","C++, Arduino, Raspberry Pi, Embedded C, Communication Protocols, Sensors",Remote,6 Months,"₹20,849/month",Hybrid,Embedded Systems,M.Tech/M.E,Advanced,https://example.com/apply/64,2026-08-08,2026-09-04,Open
+65,Cloud Computing Intern,Red Hat,"Join Red Hat as a Cloud Computing Intern. You will work on cutting-edge projects using Kubernetes, AWS, Docker, CI/CD. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kubernetes, AWS, Docker, CI/CD, GCP, Ansible",Kolkata,4 Months,"₹24,594/month",Remote,DevOps,B.Tech/B.E,Advanced,https://example.com/apply/65,2026-07-18,2026-08-09,Closed
+66,Security Analyst Intern,Check Point,"Join Check Point as a Security Analyst Intern. You will work on cutting-edge projects using Networking, Linux, Penetration Testing, SIEM. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Networking, Linux, Penetration Testing, SIEM, Firewalls",Mumbai,2 Months,"₹29,941/month",Hybrid,Cybersecurity,B.Tech/B.E,Advanced,https://example.com/apply/66,2026-07-18,2026-08-23,Open
+67,Full Stack Developer Intern,HCL,"Join HCL as a Full Stack Developer Intern. You will work on cutting-edge projects using SQL, TypeScript, React, REST API. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SQL, TypeScript, React, REST API, HTML, CSS",Pune,3 Months,"₹11,274/month",Hybrid,Web Development,BSc/MSc,Intermediate,https://example.com/apply/67,2026-07-03,2026-08-07,Closed
+68,Embedded Systems Intern,STMicroelectronics,"Join STMicroelectronics as a Embedded Systems Intern. You will work on cutting-edge projects using C++, Arduino, IoT, Embedded C. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","C++, Arduino, IoT, Embedded C",Bangalore,4 Months,"₹23,955/month",Hybrid,Embedded Systems,BSc/MSc,Entry Level,https://example.com/apply/68,2026-08-06,2026-08-31,Open
+69,Business Analyst Intern,Bain,"Join Bain as a Business Analyst Intern. You will work on cutting-edge projects using Statistics, NumPy, Pandas, SQL. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Statistics, NumPy, Pandas, SQL",Hyderabad,1 Month,"₹15,253/month",Hybrid,Data Analysis,B.Tech/B.E,Entry Level,https://example.com/apply/69,2026-07-03,2026-07-27,Closed
+70,IoT Developer Intern,Texas Instruments,"Join Texas Instruments as a IoT Developer Intern. You will work on cutting-edge projects using Python, C++, Communication Protocols, Raspberry Pi. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, C++, Communication Protocols, Raspberry Pi",Chennai,4 Months,"₹12,645/month",Hybrid,Embedded Systems,BCA/MCA,Intermediate,https://example.com/apply/70,2026-07-09,2026-07-27,Closed
+71,SEO Intern,WPP,"Join WPP as a SEO Intern. You will work on cutting-edge projects using Content Writing, Social Media, Facebook Ads, Digital Marketing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Content Writing, Social Media, Facebook Ads, Digital Marketing, Google Analytics",Hyderabad,4 Months,"₹17,308/month",In-Office,Digital Marketing,Any Graduate,Intermediate,https://example.com/apply/71,2026-08-02,2026-08-18,Closed
+72,Digital Marketing Intern,Dentsu,"Join Dentsu as a Digital Marketing Intern. You will work on cutting-edge projects using Google Analytics, Email Marketing, SEO, Content Writing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Google Analytics, Email Marketing, SEO, Content Writing, Digital Marketing, Social Media",Pune,4 Months,"₹17,009/month",In-Office,Digital Marketing,B.Tech/B.E,Advanced,https://example.com/apply/72,2026-07-19,2026-08-03,Closed
+73,Machine Learning Intern,Uber,"Join Uber as a Machine Learning Intern. You will work on cutting-edge projects using Scikit-learn, Python, Deep Learning, TensorFlow. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Scikit-learn, Python, Deep Learning, TensorFlow, PyTorch",Delhi,4 Months,"₹23,246/month",Hybrid,Data Science,M.Tech/M.E,Entry Level,https://example.com/apply/73,2026-07-24,2026-08-30,Open
+74,Cloud Computing Intern,Microsoft,"Join Microsoft as a Cloud Computing Intern. You will work on cutting-edge projects using GCP, AWS, Ansible. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","GCP, AWS, Ansible",Kolkata,1 Month,"₹20,907/month",Hybrid,Cloud,BCA/MCA,Intermediate,https://example.com/apply/74,2026-07-09,2026-08-15,Closed
+75,Network Security Intern,Check Point,"Join Check Point as a Network Security Intern. You will work on cutting-edge projects using Python, Penetration Testing, Cybersecurity, Networking. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, Penetration Testing, Cybersecurity, Networking, SIEM",Bangalore,3 Months,"₹21,571/month",In-Office,Cybersecurity,BCA/MCA,Entry Level,https://example.com/apply/75,2026-07-05,2026-07-21,Closed
+76,Mobile App Developer Intern,Meta,"Join Meta as a Mobile App Developer Intern. You will work on cutting-edge projects using Flutter, Android, Kotlin, iOS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Flutter, Android, Kotlin, iOS",Bangalore,4 Months,"₹19,207/month",In-Office,Mobile Development,M.Tech/M.E,Entry Level,https://example.com/apply/76,2026-06-30,2026-07-25,Closed
+77,Cybersecurity Intern,McAfee,"Join McAfee as a Cybersecurity Intern. You will work on cutting-edge projects using Ethical Hacking, Python, Cybersecurity, Networking. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Ethical Hacking, Python, Cybersecurity, Networking, Firewalls",Chennai,2 Months,"₹25,862/month",In-Office,Cybersecurity,BCA/MCA,Intermediate,https://example.com/apply/77,2026-06-24,2026-07-29,Closed
+78,Embedded Systems Intern,Intel,"Join Intel as a Embedded Systems Intern. You will work on cutting-edge projects using Sensors, Communication Protocols, Arduino, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Sensors, Communication Protocols, Arduino, IoT, Raspberry Pi",Kolkata,2 Months,"₹18,862/month",Remote,Embedded Systems,BSc/MSc,Advanced,https://example.com/apply/78,2026-08-17,2026-09-01,Open
+79,DevOps Intern,Google Cloud,"Join Google Cloud as a DevOps Intern. You will work on cutting-edge projects using Jenkins, GCP, AWS, Azure. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Jenkins, GCP, AWS, Azure",Bangalore,4 Months,"₹22,138/month",In-Office,Cloud,M.Tech/M.E,Entry Level,https://example.com/apply/79,2026-07-18,2026-08-20,Closed
+80,Embedded Systems Intern,Bosch,"Join Bosch as a Embedded Systems Intern. You will work on cutting-edge projects using Raspberry Pi, Arduino, C++, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Raspberry Pi, Arduino, C++, IoT, Embedded C",Chennai,4 Months,"₹18,712/month",Remote,IoT,B.Tech/B.E,Advanced,https://example.com/apply/80,2026-08-10,2026-09-08,Open
+81,Data Analyst Intern,Bain,"Join Bain as a Data Analyst Intern. You will work on cutting-edge projects using Power BI, Python, Statistics, Tableau. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, Python, Statistics, Tableau, Excel",Mumbai,2 Months,"₹14,072/month",Hybrid,Data Science,B.Tech/B.E,Advanced,https://example.com/apply/81,2026-07-07,2026-08-11,Closed
+82,ML Engineer Intern,Uber,"Join Uber as a ML Engineer Intern. You will work on cutting-edge projects using SQL, TensorFlow, NumPy, Statistics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SQL, TensorFlow, NumPy, Statistics, Deep Learning",Delhi,3 Months,"₹28,315/month",Remote,Data Science,M.Tech/M.E,Intermediate,https://example.com/apply/82,2026-06-30,2026-07-21,Closed
+83,IoT Engineer Intern,STMicroelectronics,"Join STMicroelectronics as a IoT Engineer Intern. You will work on cutting-edge projects using Sensors, C++, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Sensors, C++, Python",Hyderabad,6 Months,"₹24,097/month",Hybrid,IoT,Any Graduate,Intermediate,https://example.com/apply/83,2026-08-05,2026-09-05,Open
+84,ML Engineer Intern,Zomato,"Join Zomato as a ML Engineer Intern. You will work on cutting-edge projects using Machine Learning, TensorFlow, SQL, Statistics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Machine Learning, TensorFlow, SQL, Statistics",Bangalore,1 Month,"₹28,458/month",In-Office,Data Science,B.Tech/B.E,Advanced,https://example.com/apply/84,2026-08-19,2026-09-19,Open
+85,Analytics Intern,KPMG,"Join KPMG as a Analytics Intern. You will work on cutting-edge projects using Tableau, Pandas, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Tableau, Pandas, Python",Chennai,4 Months,"₹25,778/month",Hybrid,Data Analysis,BCA/MCA,Intermediate,https://example.com/apply/85,2026-08-18,2026-09-18,Open
+86,Backend Developer Intern,Wipro,"Join Wipro as a Backend Developer Intern. You will work on cutting-edge projects using Angular, Node.js, REST API. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Angular, Node.js, REST API",Hyderabad,6 Months,"₹17,346/month",Remote,Web Development,M.Tech/M.E,Entry Level,https://example.com/apply/86,2026-07-15,2026-08-28,Open
+87,Business Analyst Intern,PwC,"Join PwC as a Business Analyst Intern. You will work on cutting-edge projects using Power BI, Statistics, NumPy. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, Statistics, NumPy",Hyderabad,2 Months,"₹23,470/month",Remote,Data Science,B.Tech/B.E,Entry Level,https://example.com/apply/87,2026-07-05,2026-07-29,Closed
+88,Machine Learning Intern,Flipkart,"Join Flipkart as a Machine Learning Intern. You will work on cutting-edge projects using Pandas, Scikit-learn, NumPy, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Pandas, Scikit-learn, NumPy, Python, SQL, PyTorch",Bangalore,1 Month,"₹22,645/month",Hybrid,AI,B.Tech/B.E,Intermediate,https://example.com/apply/88,2026-08-05,2026-09-07,Open
+89,DevOps Intern,AWS,"Join AWS as a DevOps Intern. You will work on cutting-edge projects using Docker, Jenkins, CI/CD, Bash. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Docker, Jenkins, CI/CD, Bash, AWS",Kolkata,2 Months,"₹24,884/month",Remote,DevOps,BCA/MCA,Advanced,https://example.com/apply/89,2026-08-17,2026-09-30,Open
+90,Data Analyst Intern,PwC,"Join PwC as a Data Analyst Intern. You will work on cutting-edge projects using Pandas, NumPy, Data Visualization. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Pandas, NumPy, Data Visualization",Delhi,3 Months,"₹22,492/month",Remote,Data Analysis,Any Graduate,Advanced,https://example.com/apply/90,2026-06-24,2026-08-05,Closed
+91,Data Analyst Intern,McKinsey,"Join McKinsey as a Data Analyst Intern. You will work on cutting-edge projects using Python, SQL, Excel. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, SQL, Excel",Delhi,2 Months,"₹19,533/month",Remote,Data Science,Any Graduate,Advanced,https://example.com/apply/91,2026-06-22,2026-07-10,Closed
+92,iOS Developer Intern,Xiaomi,"Join Xiaomi as a iOS Developer Intern. You will work on cutting-edge projects using Android, iOS, Flutter, Firebase. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Android, iOS, Flutter, Firebase, Swift",Hyderabad,1 Month,"₹24,834/month",In-Office,Mobile Development,Any Graduate,Entry Level,https://example.com/apply/92,2026-08-02,2026-09-13,Open
+93,Frontend Developer Intern,HCL,"Join HCL as a Frontend Developer Intern. You will work on cutting-edge projects using CSS, TypeScript, JavaScript, Vue. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","CSS, TypeScript, JavaScript, Vue",Chennai,6 Months,"₹22,377/month",Hybrid,Web Development,BCA/MCA,Entry Level,https://example.com/apply/93,2026-07-11,2026-08-12,Closed
+94,Mobile App Developer Intern,Paytm,"Join Paytm as a Mobile App Developer Intern. You will work on cutting-edge projects using Flutter, Android, Swift. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Flutter, Android, Swift",Remote,3 Months,"₹21,821/month",Remote,Mobile Development,Any Graduate,Intermediate,https://example.com/apply/94,2026-07-11,2026-07-30,Closed
+95,Cybersecurity Intern,McAfee,"Join McAfee as a Cybersecurity Intern. You will work on cutting-edge projects using Linux, Ethical Hacking, Firewalls, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, Ethical Hacking, Firewalls, Python",Chennai,4 Months,"₹17,638/month",Remote,Cybersecurity,M.Tech/M.E,Entry Level,https://example.com/apply/95,2026-07-01,2026-07-24,Closed
+96,SEO Intern,Publicis,"Join Publicis as a SEO Intern. You will work on cutting-edge projects using Digital Marketing, SEO, Google Analytics, Social Media. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Digital Marketing, SEO, Google Analytics, Social Media, Content Writing, Facebook Ads",Mumbai,2 Months,"₹12,627/month",In-Office,Digital Marketing,BSc/MSc,Intermediate,https://example.com/apply/96,2026-08-13,2026-09-11,Open
+97,Embedded Systems Intern,Siemens,"Join Siemens as a Embedded Systems Intern. You will work on cutting-edge projects using Sensors, Embedded C, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Sensors, Embedded C, Python",Hyderabad,6 Months,"₹21,844/month",In-Office,Embedded Systems,BSc/MSc,Entry Level,https://example.com/apply/97,2026-07-08,2026-08-15,Closed
+98,Frontend Developer Intern,Tech Mahindra,"Join Tech Mahindra as a Frontend Developer Intern. You will work on cutting-edge projects using CSS, React, MongoDB, Node.js. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","CSS, React, MongoDB, Node.js, HTML, Angular",Kolkata,1 Month,"₹11,508/month",Remote,Web Development,BSc/MSc,Entry Level,https://example.com/apply/98,2026-07-11,2026-08-15,Closed
+99,Mobile App Developer Intern,Apple,"Join Apple as a Mobile App Developer Intern. You will work on cutting-edge projects using Kotlin, Flutter, iOS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kotlin, Flutter, iOS",Pune,6 Months,"₹20,843/month",Hybrid,Mobile Development,M.Tech/M.E,Intermediate,https://example.com/apply/99,2026-07-27,2026-08-13,Closed
+100,Social Media Intern,Interpublic,"Join Interpublic as a Social Media Intern. You will work on cutting-edge projects using Email Marketing, Google Analytics, Digital Marketing, SEO. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Email Marketing, Google Analytics, Digital Marketing, SEO, Social Media",Pune,2 Months,"₹15,332/month",Hybrid,Digital Marketing,Any Graduate,Intermediate,https://example.com/apply/100,2026-07-17,2026-08-24,Open
+101,Full Stack Developer Intern,HCL,"Join HCL as a Full Stack Developer Intern. You will work on cutting-edge projects using Vue, TypeScript, SQL. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Vue, TypeScript, SQL",Chennai,6 Months,"₹13,754/month",Hybrid,Web Development,M.Tech/M.E,Advanced,https://example.com/apply/101,2026-07-30,2026-09-04,Open
+102,Cybersecurity Intern,Symantec,"Join Symantec as a Cybersecurity Intern. You will work on cutting-edge projects using Networking, Ethical Hacking, Linux, Cybersecurity. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Networking, Ethical Hacking, Linux, Cybersecurity, SIEM",Mumbai,3 Months,"₹29,784/month",In-Office,Cybersecurity,B.Tech/B.E,Entry Level,https://example.com/apply/102,2026-07-26,2026-08-11,Closed
+103,DevOps Intern,Microsoft,"Join Microsoft as a DevOps Intern. You will work on cutting-edge projects using Bash, CI/CD, Kubernetes. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Bash, CI/CD, Kubernetes",Bangalore,2 Months,"₹28,413/month",Hybrid,DevOps,BCA/MCA,Entry Level,https://example.com/apply/103,2026-07-26,2026-08-19,Closed
+104,ML Engineer Intern,Ola,"Join Ola as a ML Engineer Intern. You will work on cutting-edge projects using Python, SQL, NumPy. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, SQL, NumPy",Hyderabad,2 Months,"₹32,327/month",Remote,AI,M.Tech/M.E,Intermediate,https://example.com/apply/104,2026-07-12,2026-08-09,Closed
+105,Mobile App Developer Intern,PhonePe,"Join PhonePe as a Mobile App Developer Intern. You will work on cutting-edge projects using Swift, Flutter, Android, Mobile Development. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Swift, Flutter, Android, Mobile Development, Kotlin",Delhi,2 Months,"₹19,320/month",Hybrid,Mobile Development,BSc/MSc,Entry Level,https://example.com/apply/105,2026-08-11,2026-08-30,Open
+106,Machine Learning Intern,Ola,"Join Ola as a Machine Learning Intern. You will work on cutting-edge projects using PyTorch, Scikit-learn, SQL, Deep Learning. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","PyTorch, Scikit-learn, SQL, Deep Learning, Pandas, TensorFlow",Hyderabad,2 Months,"₹24,197/month",In-Office,AI,BCA/MCA,Advanced,https://example.com/apply/106,2026-07-14,2026-08-26,Open
+107,Data Science Intern,Uber,"Join Uber as a Data Science Intern. You will work on cutting-edge projects using SQL, Deep Learning, NumPy, Scikit-learn. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SQL, Deep Learning, NumPy, Scikit-learn, TensorFlow, PyTorch",Chennai,4 Months,"₹15,268/month",In-Office,Data Science,B.Tech/B.E,Advanced,https://example.com/apply/107,2026-07-20,2026-08-31,Open
+108,Network Security Intern,Palo Alto Networks,"Join Palo Alto Networks as a Network Security Intern. You will work on cutting-edge projects using Linux, Ethical Hacking, SIEM, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, Ethical Hacking, SIEM, Python",Mumbai,3 Months,"₹22,266/month",In-Office,Cybersecurity,BSc/MSc,Intermediate,https://example.com/apply/108,2026-07-30,2026-09-05,Open
+109,Social Media Intern,WPP,"Join WPP as a Social Media Intern. You will work on cutting-edge projects using Content Writing, SEO, Digital Marketing, Social Media. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Content Writing, SEO, Digital Marketing, Social Media",Remote,1 Month,"₹15,711/month",In-Office,Digital Marketing,BCA/MCA,Intermediate,https://example.com/apply/109,2026-06-25,2026-08-07,Closed
+110,Security Analyst Intern,Fortinet,"Join Fortinet as a Security Analyst Intern. You will work on cutting-edge projects using Networking, Linux, Penetration Testing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Networking, Linux, Penetration Testing",Pune,1 Month,"₹20,740/month",Remote,Cybersecurity,M.Tech/M.E,Entry Level,https://example.com/apply/110,2026-08-20,2026-09-25,Open
+111,Android Developer Intern,Meta,"Join Meta as a Android Developer Intern. You will work on cutting-edge projects using Firebase, React Native, Flutter. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Firebase, React Native, Flutter",Hyderabad,3 Months,"₹27,694/month",In-Office,Mobile Development,B.Tech/B.E,Entry Level,https://example.com/apply/111,2026-07-13,2026-08-03,Closed
+112,Web Developer Intern,Cognizant,"Join Cognizant as a Web Developer Intern. You will work on cutting-edge projects using TypeScript, MongoDB, SQL. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","TypeScript, MongoDB, SQL",Bangalore,4 Months,"₹18,801/month",Remote,Web Development,B.Tech/B.E,Advanced,https://example.com/apply/112,2026-07-19,2026-08-30,Open
+113,Business Analyst Intern,Bain,"Join Bain as a Business Analyst Intern. You will work on cutting-edge projects using Power BI, Statistics, Tableau. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Power BI, Statistics, Tableau",Remote,3 Months,"₹13,720/month",In-Office,Data Analysis,BSc/MSc,Entry Level,https://example.com/apply/113,2026-07-29,2026-08-14,Closed
+114,iOS Developer Intern,Meta,"Join Meta as a iOS Developer Intern. You will work on cutting-edge projects using Mobile Development, Android, Firebase, Kotlin. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Mobile Development, Android, Firebase, Kotlin",Delhi,2 Months,"₹23,343/month",Hybrid,Mobile Development,M.Tech/M.E,Entry Level,https://example.com/apply/114,2026-07-14,2026-08-07,Closed
+115,IoT Engineer Intern,Texas Instruments,"Join Texas Instruments as a IoT Engineer Intern. You will work on cutting-edge projects using C++, IoT, Embedded C, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","C++, IoT, Embedded C, Python, Communication Protocols, Arduino",Delhi,6 Months,"₹15,505/month",In-Office,IoT,Any Graduate,Entry Level,https://example.com/apply/115,2026-07-31,2026-09-03,Open
+116,Cloud Computing Intern,Google Cloud,"Join Google Cloud as a Cloud Computing Intern. You will work on cutting-edge projects using CI/CD, Ansible, Bash, Jenkins. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","CI/CD, Ansible, Bash, Jenkins, Docker, Kubernetes",Bangalore,6 Months,"₹27,304/month",Remote,Cloud,Any Graduate,Advanced,https://example.com/apply/116,2026-08-06,2026-09-08,Open
+117,Site Reliability Engineer Intern,HashiCorp,"Join HashiCorp as a Site Reliability Engineer Intern. You will work on cutting-edge projects using Azure, Terraform, Bash, Jenkins. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Azure, Terraform, Bash, Jenkins, Linux, AWS",Chennai,2 Months,"₹22,094/month",Hybrid,Cloud,M.Tech/M.E,Intermediate,https://example.com/apply/117,2026-08-05,2026-08-30,Open
+118,DevOps Intern,Google Cloud,"Join Google Cloud as a DevOps Intern. You will work on cutting-edge projects using Jenkins, Kubernetes, CI/CD, Docker. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Jenkins, Kubernetes, CI/CD, Docker",Pune,6 Months,"₹29,459/month",In-Office,DevOps,Any Graduate,Advanced,https://example.com/apply/118,2026-08-10,2026-09-08,Open
+119,Mobile App Developer Intern,PhonePe,"Join PhonePe as a Mobile App Developer Intern. You will work on cutting-edge projects using Kotlin, React Native, iOS, Swift. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kotlin, React Native, iOS, Swift",Mumbai,2 Months,"₹18,822/month",In-Office,Mobile Development,M.Tech/M.E,Advanced,https://example.com/apply/119,2026-06-27,2026-07-16,Closed
+120,Cloud Computing Intern,Microsoft,"Join Microsoft as a Cloud Computing Intern. You will work on cutting-edge projects using Jenkins, CI/CD, Ansible. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Jenkins, CI/CD, Ansible",Mumbai,4 Months,"₹21,319/month",Remote,DevOps,BSc/MSc,Entry Level,https://example.com/apply/120,2026-08-11,2026-09-06,Open
+121,IoT Developer Intern,Texas Instruments,"Join Texas Instruments as a IoT Developer Intern. You will work on cutting-edge projects using IoT, C++, Embedded C, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","IoT, C++, Embedded C, Python, Raspberry Pi",Delhi,6 Months,"₹10,960/month",In-Office,IoT,B.Tech/B.E,Intermediate,https://example.com/apply/121,2026-08-10,2026-08-30,Open
+122,Embedded Systems Intern,NXP,"Join NXP as a Embedded Systems Intern. You will work on cutting-edge projects using Raspberry Pi, Arduino, C++, Sensors. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Raspberry Pi, Arduino, C++, Sensors",Pune,6 Months,"₹11,945/month",Hybrid,IoT,M.Tech/M.E,Intermediate,https://example.com/apply/122,2026-07-20,2026-08-13,Closed
+123,Cybersecurity Intern,Palo Alto Networks,"Join Palo Alto Networks as a Cybersecurity Intern. You will work on cutting-edge projects using Linux, Networking, SIEM, Firewalls. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, Networking, SIEM, Firewalls",Chennai,6 Months,"₹28,314/month",Remote,Cybersecurity,BCA/MCA,Intermediate,https://example.com/apply/123,2026-07-23,2026-09-02,Open
+124,Security Analyst Intern,Cisco,"Join Cisco as a Security Analyst Intern. You will work on cutting-edge projects using Firewalls, Cybersecurity, Networking, SIEM. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Firewalls, Cybersecurity, Networking, SIEM",Kolkata,4 Months,"₹18,369/month",Hybrid,Cybersecurity,Any Graduate,Advanced,https://example.com/apply/124,2026-07-26,2026-08-11,Closed
+125,IoT Developer Intern,Texas Instruments,"Join Texas Instruments as a IoT Developer Intern. You will work on cutting-edge projects using Arduino, Communication Protocols, Raspberry Pi. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Arduino, Communication Protocols, Raspberry Pi",Delhi,4 Months,"₹23,259/month",In-Office,Embedded Systems,M.Tech/M.E,Advanced,https://example.com/apply/125,2026-07-21,2026-08-23,Open
+126,Site Reliability Engineer Intern,HashiCorp,"Join HashiCorp as a Site Reliability Engineer Intern. You will work on cutting-edge projects using Kubernetes, Bash, AWS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kubernetes, Bash, AWS",Mumbai,1 Month,"₹28,036/month",In-Office,DevOps,BSc/MSc,Intermediate,https://example.com/apply/126,2026-07-07,2026-08-17,Closed
+127,Cybersecurity Intern,Palo Alto Networks,"Join Palo Alto Networks as a Cybersecurity Intern. You will work on cutting-edge projects using Cybersecurity, Python, Networking, SIEM. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Cybersecurity, Python, Networking, SIEM, Linux, Firewalls",Remote,2 Months,"₹26,349/month",In-Office,Cybersecurity,BSc/MSc,Advanced,https://example.com/apply/127,2026-07-31,2026-09-12,Open
+128,Frontend Developer Intern,Cognizant,"Join Cognizant as a Frontend Developer Intern. You will work on cutting-edge projects using MongoDB, Angular, CSS, REST API. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","MongoDB, Angular, CSS, REST API, React",Kolkata,4 Months,"₹10,244/month",In-Office,Web Development,BCA/MCA,Intermediate,https://example.com/apply/128,2026-07-28,2026-09-03,Open
+129,IoT Engineer Intern,NXP,"Join NXP as a IoT Engineer Intern. You will work on cutting-edge projects using Arduino, C++, Embedded C, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Arduino, C++, Embedded C, IoT",Kolkata,1 Month,"₹15,987/month",Hybrid,IoT,Any Graduate,Entry Level,https://example.com/apply/129,2026-07-21,2026-09-02,Open
+130,Embedded Systems Intern,Intel,"Join Intel as a Embedded Systems Intern. You will work on cutting-edge projects using Python, Embedded C, Sensors, Raspberry Pi. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, Embedded C, Sensors, Raspberry Pi, Arduino, IoT",Bangalore,4 Months,"₹24,066/month",Hybrid,Embedded Systems,M.Tech/M.E,Intermediate,https://example.com/apply/130,2026-07-08,2026-08-08,Closed
+131,Web Developer Intern,TCS,"Join TCS as a Web Developer Intern. You will work on cutting-edge projects using JavaScript, Angular, TypeScript. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","JavaScript, Angular, TypeScript",Delhi,2 Months,"₹24,482/month",Hybrid,Web Development,BSc/MSc,Intermediate,https://example.com/apply/131,2026-07-26,2026-08-12,Closed
+132,Content Marketing Intern,Dentsu,"Join Dentsu as a Content Marketing Intern. You will work on cutting-edge projects using Digital Marketing, Email Marketing, Facebook Ads, Social Media. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Digital Marketing, Email Marketing, Facebook Ads, Social Media, Content Writing",Delhi,4 Months,"₹9,022/month",In-Office,Digital Marketing,Any Graduate,Intermediate,https://example.com/apply/132,2026-07-13,2026-07-28,Closed
+133,Backend Developer Intern,HCL,"Join HCL as a Backend Developer Intern. You will work on cutting-edge projects using HTML, CSS, Vue, REST API. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","HTML, CSS, Vue, REST API",Pune,2 Months,"₹13,915/month",Remote,Web Development,B.Tech/B.E,Intermediate,https://example.com/apply/133,2026-08-06,2026-09-19,Open
+134,Frontend Developer Intern,Accenture,"Join Accenture as a Frontend Developer Intern. You will work on cutting-edge projects using SQL, REST API, JavaScript. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SQL, REST API, JavaScript",Pune,1 Month,"₹22,568/month",In-Office,Web Development,BSc/MSc,Intermediate,https://example.com/apply/134,2026-07-13,2026-07-29,Closed
+135,Frontend Developer Intern,HCL,"Join HCL as a Frontend Developer Intern. You will work on cutting-edge projects using Node.js, JavaScript, SQL, React. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Node.js, JavaScript, SQL, React, Angular",Remote,2 Months,"₹17,017/month",In-Office,Web Development,B.Tech/B.E,Entry Level,https://example.com/apply/135,2026-08-20,2026-09-23,Open
+136,Backend Developer Intern,Wipro,"Join Wipro as a Backend Developer Intern. You will work on cutting-edge projects using Node.js, CSS, REST API. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Node.js, CSS, REST API",Delhi,3 Months,"₹15,732/month",Remote,Web Development,Any Graduate,Intermediate,https://example.com/apply/136,2026-07-04,2026-07-26,Closed
+137,Data Science Intern,Flipkart,"Join Flipkart as a Data Science Intern. You will work on cutting-edge projects using NumPy, PyTorch, Statistics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","NumPy, PyTorch, Statistics",Delhi,1 Month,"₹20,097/month",Hybrid,Machine Learning,BCA/MCA,Intermediate,https://example.com/apply/137,2026-08-11,2026-09-16,Open
+138,Security Analyst Intern,McAfee,"Join McAfee as a Security Analyst Intern. You will work on cutting-edge projects using Firewalls, Cybersecurity, Ethical Hacking, SIEM. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Firewalls, Cybersecurity, Ethical Hacking, SIEM, Linux",Mumbai,3 Months,"₹31,098/month",Hybrid,Cybersecurity,M.Tech/M.E,Intermediate,https://example.com/apply/138,2026-08-05,2026-09-17,Open
+139,AI Research Intern,Flipkart,"Join Flipkart as a AI Research Intern. You will work on cutting-edge projects using PyTorch, SQL, Deep Learning, Statistics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","PyTorch, SQL, Deep Learning, Statistics",Delhi,2 Months,"₹19,812/month",In-Office,Data Science,M.Tech/M.E,Entry Level,https://example.com/apply/139,2026-08-20,2026-09-04,Open
+140,Machine Learning Intern,Amazon,"Join Amazon as a Machine Learning Intern. You will work on cutting-edge projects using TensorFlow, Python, Statistics, NumPy. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","TensorFlow, Python, Statistics, NumPy, Deep Learning",Mumbai,2 Months,"₹34,249/month",In-Office,AI,BSc/MSc,Intermediate,https://example.com/apply/140,2026-08-20,2026-09-14,Open
+141,Mobile App Developer Intern,Apple,"Join Apple as a Mobile App Developer Intern. You will work on cutting-edge projects using Java, Mobile Development, Kotlin, Firebase. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Java, Mobile Development, Kotlin, Firebase, React Native, Swift",Pune,6 Months,"₹19,277/month",Hybrid,Mobile Development,BCA/MCA,Entry Level,https://example.com/apply/141,2026-06-30,2026-07-20,Closed
+142,Content Marketing Intern,Dentsu,"Join Dentsu as a Content Marketing Intern. You will work on cutting-edge projects using SEO, Digital Marketing, Email Marketing, Social Media. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SEO, Digital Marketing, Email Marketing, Social Media, Content Writing",Remote,3 Months,"₹16,031/month",In-Office,Digital Marketing,Any Graduate,Entry Level,https://example.com/apply/142,2026-08-13,2026-09-03,Open
+143,DevOps Intern,Canonical,"Join Canonical as a DevOps Intern. You will work on cutting-edge projects using Azure, Bash, Terraform, Docker. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Azure, Bash, Terraform, Docker, Jenkins, Ansible",Chennai,1 Month,"₹22,553/month",Hybrid,Cloud,BCA/MCA,Entry Level,https://example.com/apply/143,2026-08-15,2026-09-10,Open
+144,Mobile App Developer Intern,PhonePe,"Join PhonePe as a Mobile App Developer Intern. You will work on cutting-edge projects using Mobile Development, Flutter, Swift, Android. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Mobile Development, Flutter, Swift, Android, iOS",Delhi,3 Months,"₹26,646/month",Remote,Mobile Development,M.Tech/M.E,Intermediate,https://example.com/apply/144,2026-06-26,2026-07-13,Closed
+145,Mobile App Developer Intern,Xiaomi,"Join Xiaomi as a Mobile App Developer Intern. You will work on cutting-edge projects using Java, Firebase, React Native, Flutter. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Java, Firebase, React Native, Flutter",Delhi,1 Month,"₹19,697/month",In-Office,Mobile Development,M.Tech/M.E,Entry Level,https://example.com/apply/145,2026-07-23,2026-08-10,Closed
+146,Web Developer Intern,Infosys,"Join Infosys as a Web Developer Intern. You will work on cutting-edge projects using REST API, MongoDB, HTML. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","REST API, MongoDB, HTML",Delhi,6 Months,"₹13,493/month",Remote,Web Development,BSc/MSc,Intermediate,https://example.com/apply/146,2026-08-20,2026-09-06,Open
+147,Cybersecurity Intern,Palo Alto Networks,"Join Palo Alto Networks as a Cybersecurity Intern. You will work on cutting-edge projects using Linux, SIEM, Penetration Testing, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, SIEM, Penetration Testing, Python, Ethical Hacking",Delhi,2 Months,"₹31,245/month",In-Office,Cybersecurity,M.Tech/M.E,Entry Level,https://example.com/apply/147,2026-07-12,2026-08-03,Closed
+148,Embedded Systems Intern,Siemens,"Join Siemens as a Embedded Systems Intern. You will work on cutting-edge projects using Communication Protocols, Embedded C, Raspberry Pi. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Communication Protocols, Embedded C, Raspberry Pi",Chennai,2 Months,"₹21,172/month",Hybrid,Embedded Systems,BCA/MCA,Intermediate,https://example.com/apply/148,2026-08-03,2026-08-28,Open
+149,DevOps Intern,Red Hat,"Join Red Hat as a DevOps Intern. You will work on cutting-edge projects using AWS, Terraform, Linux, Ansible. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","AWS, Terraform, Linux, Ansible, Azure, CI/CD",Kolkata,2 Months,"₹21,293/month",In-Office,DevOps,BSc/MSc,Entry Level,https://example.com/apply/149,2026-07-19,2026-08-10,Closed
+150,Cloud Computing Intern,Google Cloud,"Join Google Cloud as a Cloud Computing Intern. You will work on cutting-edge projects using CI/CD, Bash, Kubernetes. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","CI/CD, Bash, Kubernetes",Hyderabad,3 Months,"₹24,981/month",Hybrid,Cloud,Any Graduate,Entry Level,https://example.com/apply/150,2026-07-06,2026-08-02,Closed
+151,iOS Developer Intern,Google,"Join Google as a iOS Developer Intern. You will work on cutting-edge projects using Mobile Development, Swift, Java. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Mobile Development, Swift, Java",Pune,1 Month,"₹14,323/month",Remote,Mobile Development,Any Graduate,Advanced,https://example.com/apply/151,2026-07-20,2026-08-15,Closed
+152,Site Reliability Engineer Intern,AWS,"Join AWS as a Site Reliability Engineer Intern. You will work on cutting-edge projects using Linux, Kubernetes, Jenkins, CI/CD. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, Kubernetes, Jenkins, CI/CD, Bash, AWS",Bangalore,6 Months,"₹16,428/month",Hybrid,Cloud,M.Tech/M.E,Advanced,https://example.com/apply/152,2026-08-03,2026-09-17,Open
+153,Digital Marketing Intern,WPP,"Join WPP as a Digital Marketing Intern. You will work on cutting-edge projects using Content Writing, Social Media, Email Marketing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Content Writing, Social Media, Email Marketing",Remote,6 Months,"₹9,029/month",Hybrid,Digital Marketing,BSc/MSc,Intermediate,https://example.com/apply/153,2026-08-10,2026-09-05,Open
+154,Frontend Developer Intern,HCL,"Join HCL as a Frontend Developer Intern. You will work on cutting-edge projects using SQL, REST API, CSS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SQL, REST API, CSS",Pune,2 Months,"₹14,264/month",Remote,Web Development,Any Graduate,Advanced,https://example.com/apply/154,2026-07-04,2026-08-14,Closed
+155,IoT Developer Intern,STMicroelectronics,"Join STMicroelectronics as a IoT Developer Intern. You will work on cutting-edge projects using Arduino, Sensors, Communication Protocols, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Arduino, Sensors, Communication Protocols, IoT",Mumbai,3 Months,"₹12,605/month",In-Office,IoT,B.Tech/B.E,Intermediate,https://example.com/apply/155,2026-07-01,2026-08-07,Closed
+156,IoT Engineer Intern,Intel,"Join Intel as a IoT Engineer Intern. You will work on cutting-edge projects using Sensors, Communication Protocols, Embedded C, Arduino. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Sensors, Communication Protocols, Embedded C, Arduino",Chennai,6 Months,"₹19,723/month",Remote,Embedded Systems,M.Tech/M.E,Entry Level,https://example.com/apply/156,2026-06-22,2026-07-25,Closed
+157,Android Developer Intern,Google,"Join Google as a Android Developer Intern. You will work on cutting-edge projects using Firebase, Java, Flutter, iOS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Firebase, Java, Flutter, iOS",Kolkata,1 Month,"₹21,679/month",Remote,Mobile Development,M.Tech/M.E,Entry Level,https://example.com/apply/157,2026-07-17,2026-08-20,Closed
+158,Network Security Intern,Check Point,"Join Check Point as a Network Security Intern. You will work on cutting-edge projects using Cybersecurity, Networking, Python, Linux. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Cybersecurity, Networking, Python, Linux, SIEM, Penetration Testing",Chennai,6 Months,"₹16,057/month",Hybrid,Cybersecurity,BSc/MSc,Intermediate,https://example.com/apply/158,2026-07-25,2026-08-11,Closed
+159,iOS Developer Intern,Apple,"Join Apple as a iOS Developer Intern. You will work on cutting-edge projects using Firebase, Java, Kotlin, Mobile Development. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Firebase, Java, Kotlin, Mobile Development",Bangalore,3 Months,"₹12,577/month",In-Office,Mobile Development,Any Graduate,Intermediate,https://example.com/apply/159,2026-07-07,2026-08-21,Closed
+160,iOS Developer Intern,Xiaomi,"Join Xiaomi as a iOS Developer Intern. You will work on cutting-edge projects using Android, Flutter, Swift, React Native. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Android, Flutter, Swift, React Native",Pune,3 Months,"₹25,215/month",In-Office,Mobile Development,M.Tech/M.E,Intermediate,https://example.com/apply/160,2026-08-17,2026-09-05,Open
+161,Machine Learning Intern,Swiggy,"Join Swiggy as a Machine Learning Intern. You will work on cutting-edge projects using Python, TensorFlow, Scikit-learn. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Python, TensorFlow, Scikit-learn",Delhi,6 Months,"₹28,016/month",Remote,AI,M.Tech/M.E,Intermediate,https://example.com/apply/161,2026-07-13,2026-08-27,Open
+162,Security Analyst Intern,Symantec,"Join Symantec as a Security Analyst Intern. You will work on cutting-edge projects using Penetration Testing, Firewalls, SIEM, Cybersecurity. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Penetration Testing, Firewalls, SIEM, Cybersecurity",Delhi,4 Months,"₹22,712/month",Hybrid,Cybersecurity,B.Tech/B.E,Entry Level,https://example.com/apply/162,2026-08-18,2026-09-17,Open
+163,Security Analyst Intern,Cisco,"Join Cisco as a Security Analyst Intern. You will work on cutting-edge projects using Cybersecurity, Firewalls, Linux, Networking. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Cybersecurity, Firewalls, Linux, Networking, Ethical Hacking, SIEM",Remote,2 Months,"₹29,822/month",Hybrid,Cybersecurity,BSc/MSc,Advanced,https://example.com/apply/163,2026-06-30,2026-07-15,Closed
+164,Cybersecurity Intern,McAfee,"Join McAfee as a Cybersecurity Intern. You will work on cutting-edge projects using Cybersecurity, Ethical Hacking, Firewalls. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Cybersecurity, Ethical Hacking, Firewalls",Pune,1 Month,"₹29,280/month",In-Office,Cybersecurity,M.Tech/M.E,Entry Level,https://example.com/apply/164,2026-07-21,2026-08-20,Closed
+165,iOS Developer Intern,Apple,"Join Apple as a iOS Developer Intern. You will work on cutting-edge projects using Android, Flutter, Swift, iOS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Android, Flutter, Swift, iOS",Delhi,6 Months,"₹23,217/month",Remote,Mobile Development,M.Tech/M.E,Intermediate,https://example.com/apply/165,2026-08-14,2026-09-23,Open
+166,Full Stack Developer Intern,Cognizant,"Join Cognizant as a Full Stack Developer Intern. You will work on cutting-edge projects using Vue, TypeScript, JavaScript, MongoDB. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Vue, TypeScript, JavaScript, MongoDB",Pune,3 Months,"₹13,157/month",In-Office,Web Development,BCA/MCA,Advanced,https://example.com/apply/166,2026-07-01,2026-07-21,Closed
+167,Embedded Systems Intern,STMicroelectronics,"Join STMicroelectronics as a Embedded Systems Intern. You will work on cutting-edge projects using IoT, Python, Arduino, Sensors. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","IoT, Python, Arduino, Sensors",Chennai,6 Months,"₹18,655/month",In-Office,Embedded Systems,B.Tech/B.E,Entry Level,https://example.com/apply/167,2026-06-24,2026-07-29,Closed
+168,Data Analyst Intern,McKinsey,"Join McKinsey as a Data Analyst Intern. You will work on cutting-edge projects using Tableau, Excel, NumPy, Power BI. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Tableau, Excel, NumPy, Power BI, SQL",Chennai,2 Months,"₹20,871/month",In-Office,Data Analysis,BSc/MSc,Entry Level,https://example.com/apply/168,2026-07-27,2026-08-12,Closed
+169,Security Analyst Intern,Cisco,"Join Cisco as a Security Analyst Intern. You will work on cutting-edge projects using Penetration Testing, Networking, Firewalls, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Penetration Testing, Networking, Firewalls, Python, SIEM",Delhi,4 Months,"₹24,711/month",Hybrid,Cybersecurity,B.Tech/B.E,Entry Level,https://example.com/apply/169,2026-08-09,2026-09-09,Open
+170,DevOps Intern,Canonical,"Join Canonical as a DevOps Intern. You will work on cutting-edge projects using Linux, Docker, Kubernetes. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, Docker, Kubernetes",Mumbai,6 Months,"₹23,677/month",In-Office,DevOps,BSc/MSc,Entry Level,https://example.com/apply/170,2026-06-28,2026-07-13,Closed
+171,Android Developer Intern,Xiaomi,"Join Xiaomi as a Android Developer Intern. You will work on cutting-edge projects using Mobile Development, Firebase, Kotlin. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Mobile Development, Firebase, Kotlin",Hyderabad,1 Month,"₹27,951/month",Remote,Mobile Development,M.Tech/M.E,Advanced,https://example.com/apply/171,2026-08-03,2026-08-20,Closed
+172,DevOps Intern,Red Hat,"Join Red Hat as a DevOps Intern. You will work on cutting-edge projects using Kubernetes, Jenkins, Azure, Docker. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kubernetes, Jenkins, Azure, Docker",Delhi,6 Months,"₹23,905/month",Remote,Cloud,B.Tech/B.E,Advanced,https://example.com/apply/172,2026-07-16,2026-08-10,Closed
+173,SEO Intern,Publicis,"Join Publicis as a SEO Intern. You will work on cutting-edge projects using Digital Marketing, Content Writing, Email Marketing, SEO. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Digital Marketing, Content Writing, Email Marketing, SEO, Google Analytics, Social Media",Remote,4 Months,"₹13,274/month",Remote,Digital Marketing,B.Tech/B.E,Intermediate,https://example.com/apply/173,2026-08-06,2026-08-21,Closed
+174,Cloud Computing Intern,Microsoft,"Join Microsoft as a Cloud Computing Intern. You will work on cutting-edge projects using Ansible, Jenkins, Terraform, Docker. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Ansible, Jenkins, Terraform, Docker",Pune,3 Months,"₹28,326/month",Hybrid,DevOps,Any Graduate,Advanced,https://example.com/apply/174,2026-07-28,2026-09-11,Open
+175,Network Security Intern,McAfee,"Join McAfee as a Network Security Intern. You will work on cutting-edge projects using Cybersecurity, Linux, SIEM. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Cybersecurity, Linux, SIEM",Pune,4 Months,"₹26,672/month",In-Office,Cybersecurity,M.Tech/M.E,Intermediate,https://example.com/apply/175,2026-08-18,2026-09-15,Open
+176,Frontend Developer Intern,Infosys,"Join Infosys as a Frontend Developer Intern. You will work on cutting-edge projects using TypeScript, Vue, Angular, CSS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","TypeScript, Vue, Angular, CSS, JavaScript, MongoDB",Hyderabad,1 Month,"₹17,123/month",Remote,Web Development,Any Graduate,Intermediate,https://example.com/apply/176,2026-07-11,2026-08-19,Closed
+177,IoT Engineer Intern,STMicroelectronics,"Join STMicroelectronics as a IoT Engineer Intern. You will work on cutting-edge projects using Communication Protocols, C++, Python, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Communication Protocols, C++, Python, IoT, Sensors, Arduino",Delhi,4 Months,"₹18,760/month",In-Office,IoT,BCA/MCA,Intermediate,https://example.com/apply/177,2026-06-23,2026-07-25,Closed
+178,Full Stack Developer Intern,Infosys,"Join Infosys as a Full Stack Developer Intern. You will work on cutting-edge projects using REST API, Node.js, TypeScript, CSS. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","REST API, Node.js, TypeScript, CSS, React",Mumbai,1 Month,"₹16,189/month",Hybrid,Web Development,B.Tech/B.E,Advanced,https://example.com/apply/178,2026-08-14,2026-09-12,Open
+179,iOS Developer Intern,Xiaomi,"Join Xiaomi as a iOS Developer Intern. You will work on cutting-edge projects using Kotlin, Mobile Development, Java. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kotlin, Mobile Development, Java",Kolkata,1 Month,"₹23,075/month",In-Office,Mobile Development,B.Tech/B.E,Intermediate,https://example.com/apply/179,2026-08-13,2026-09-11,Open
+180,IoT Developer Intern,Siemens,"Join Siemens as a IoT Developer Intern. You will work on cutting-edge projects using Embedded C, Arduino, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Embedded C, Arduino, IoT",Hyderabad,3 Months,"₹10,675/month",Remote,Embedded Systems,B.Tech/B.E,Advanced,https://example.com/apply/180,2026-08-04,2026-09-02,Open
+181,Content Marketing Intern,Omnicom,"Join Omnicom as a Content Marketing Intern. You will work on cutting-edge projects using Email Marketing, Social Media, Content Writing, Digital Marketing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Email Marketing, Social Media, Content Writing, Digital Marketing",Hyderabad,1 Month,"₹9,222/month",Remote,Digital Marketing,BCA/MCA,Entry Level,https://example.com/apply/181,2026-06-29,2026-08-13,Closed
+182,Social Media Intern,WPP,"Join WPP as a Social Media Intern. You will work on cutting-edge projects using Content Writing, Social Media, Digital Marketing, Google Analytics. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Content Writing, Social Media, Digital Marketing, Google Analytics, SEO, Email Marketing",Bangalore,2 Months,"₹8,601/month",In-Office,Digital Marketing,Any Graduate,Intermediate,https://example.com/apply/182,2026-06-22,2026-07-29,Closed
+183,IoT Developer Intern,Intel,"Join Intel as a IoT Developer Intern. You will work on cutting-edge projects using Embedded C, Arduino, IoT, C++. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Embedded C, Arduino, IoT, C++",Kolkata,4 Months,"₹13,453/month",Remote,Embedded Systems,Any Graduate,Advanced,https://example.com/apply/183,2026-08-14,2026-09-14,Open
+184,Backend Developer Intern,TCS,"Join TCS as a Backend Developer Intern. You will work on cutting-edge projects using Angular, CSS, JavaScript. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Angular, CSS, JavaScript",Mumbai,3 Months,"₹10,770/month",Remote,Web Development,BSc/MSc,Entry Level,https://example.com/apply/184,2026-07-19,2026-08-08,Closed
+185,AI Research Intern,Ola,"Join Ola as a AI Research Intern. You will work on cutting-edge projects using Machine Learning, NumPy, Pandas, Deep Learning. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Machine Learning, NumPy, Pandas, Deep Learning",Kolkata,6 Months,"₹28,144/month",Hybrid,AI,M.Tech/M.E,Intermediate,https://example.com/apply/185,2026-08-05,2026-09-14,Open
+186,Analytics Intern,Deloitte,"Join Deloitte as a Analytics Intern. You will work on cutting-edge projects using Data Visualization, NumPy, Pandas. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Data Visualization, NumPy, Pandas",Remote,4 Months,"₹23,983/month",Hybrid,Data Science,M.Tech/M.E,Entry Level,https://example.com/apply/186,2026-08-12,2026-09-07,Open
+187,AI Research Intern,Swiggy,"Join Swiggy as a AI Research Intern. You will work on cutting-edge projects using PyTorch, NumPy, Statistics, Pandas. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","PyTorch, NumPy, Statistics, Pandas, SQL, Python",Remote,3 Months,"₹26,972/month",In-Office,AI,B.Tech/B.E,Advanced,https://example.com/apply/187,2026-07-16,2026-08-06,Closed
+188,Data Science Intern,Google,"Join Google as a Data Science Intern. You will work on cutting-edge projects using Statistics, Scikit-learn, NumPy. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Statistics, Scikit-learn, NumPy",Delhi,1 Month,"₹34,681/month",Remote,AI,BCA/MCA,Intermediate,https://example.com/apply/188,2026-07-04,2026-08-06,Closed
+189,Full Stack Developer Intern,Accenture,"Join Accenture as a Full Stack Developer Intern. You will work on cutting-edge projects using JavaScript, REST API, MongoDB, Node.js. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","JavaScript, REST API, MongoDB, Node.js",Kolkata,3 Months,"₹12,899/month",Hybrid,Web Development,BCA/MCA,Advanced,https://example.com/apply/189,2026-07-04,2026-08-02,Closed
+190,IoT Engineer Intern,Siemens,"Join Siemens as a IoT Engineer Intern. You will work on cutting-edge projects using Sensors, Raspberry Pi, Communication Protocols, IoT. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Sensors, Raspberry Pi, Communication Protocols, IoT, Arduino",Delhi,1 Month,"₹17,184/month",Hybrid,Embedded Systems,Any Graduate,Advanced,https://example.com/apply/190,2026-06-24,2026-08-04,Closed
+191,iOS Developer Intern,PhonePe,"Join PhonePe as a iOS Developer Intern. You will work on cutting-edge projects using Kotlin, Mobile Development, Android. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Kotlin, Mobile Development, Android",Remote,2 Months,"₹25,803/month",In-Office,Mobile Development,B.Tech/B.E,Entry Level,https://example.com/apply/191,2026-06-30,2026-08-09,Closed
+192,SEO Intern,Omnicom,"Join Omnicom as a SEO Intern. You will work on cutting-edge projects using Social Media, Digital Marketing, Content Writing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Social Media, Digital Marketing, Content Writing",Chennai,3 Months,"₹17,773/month",In-Office,Digital Marketing,Any Graduate,Intermediate,https://example.com/apply/192,2026-07-12,2026-08-06,Closed
+193,Network Security Intern,Check Point,"Join Check Point as a Network Security Intern. You will work on cutting-edge projects using Networking, Python, Cybersecurity, Ethical Hacking. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Networking, Python, Cybersecurity, Ethical Hacking",Bangalore,6 Months,"₹18,265/month",Hybrid,Cybersecurity,BCA/MCA,Intermediate,https://example.com/apply/193,2026-07-02,2026-07-17,Closed
+194,Content Marketing Intern,WPP,"Join WPP as a Content Marketing Intern. You will work on cutting-edge projects using Digital Marketing, Google Analytics, Content Writing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Digital Marketing, Google Analytics, Content Writing",Bangalore,4 Months,"₹17,197/month",Remote,Digital Marketing,BCA/MCA,Entry Level,https://example.com/apply/194,2026-06-25,2026-08-06,Closed
+195,Security Analyst Intern,Check Point,"Join Check Point as a Security Analyst Intern. You will work on cutting-edge projects using Linux, Firewalls, SIEM, Penetration Testing. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Linux, Firewalls, SIEM, Penetration Testing, Python, Cybersecurity",Chennai,3 Months,"₹26,971/month",In-Office,Cybersecurity,M.Tech/M.E,Intermediate,https://example.com/apply/195,2026-07-09,2026-08-04,Closed
+196,Embedded Systems Intern,NXP,"Join NXP as a Embedded Systems Intern. You will work on cutting-edge projects using IoT, Raspberry Pi, Arduino, Embedded C. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","IoT, Raspberry Pi, Arduino, Embedded C, Communication Protocols",Chennai,3 Months,"₹11,923/month",Hybrid,Embedded Systems,BCA/MCA,Intermediate,https://example.com/apply/196,2026-07-10,2026-07-29,Closed
+197,Network Security Intern,McAfee,"Join McAfee as a Network Security Intern. You will work on cutting-edge projects using SIEM, Networking, Linux, Ethical Hacking. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","SIEM, Networking, Linux, Ethical Hacking, Cybersecurity, Firewalls",Kolkata,4 Months,"₹23,903/month",Remote,Cybersecurity,BCA/MCA,Entry Level,https://example.com/apply/197,2026-07-12,2026-08-09,Closed
+198,Data Analyst Intern,Fractal,"Join Fractal as a Data Analyst Intern. You will work on cutting-edge projects using Pandas, Excel, Tableau, Power BI. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Pandas, Excel, Tableau, Power BI, Statistics, Data Visualization",Chennai,4 Months,"₹17,881/month",In-Office,Data Science,M.Tech/M.E,Advanced,https://example.com/apply/198,2026-06-30,2026-07-16,Closed
+199,Data Analyst Intern,EY,"Join EY as a Data Analyst Intern. You will work on cutting-edge projects using Data Visualization, Pandas, Statistics, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Data Visualization, Pandas, Statistics, Python, Power BI, Excel",Remote,3 Months,"₹25,552/month",In-Office,Data Science,BSc/MSc,Entry Level,https://example.com/apply/199,2026-06-22,2026-07-21,Closed
+200,IoT Developer Intern,Texas Instruments,"Join Texas Instruments as a IoT Developer Intern. You will work on cutting-edge projects using Communication Protocols, Raspberry Pi, IoT, Python. 
+    This internship offers hands-on experience with real-world applications and mentorship from industry experts. 
+    Ideal for students passionate about learning and contributing to impactful projects.","Communication Protocols, Raspberry Pi, IoT, Python",Bangalore,6 Months,"₹14,790/month",Remote,Embedded Systems,BSc/MSc,Advanced,https://example.com/apply/200,2026-06-23,2026-08-02,Closed

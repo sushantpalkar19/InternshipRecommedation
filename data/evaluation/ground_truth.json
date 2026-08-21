@@ -1,0 +1,57 @@
+{
+  "q1": {
+    "user_skills": "Python, Machine Learning, pandas, Sql",
+    "relevant_ids": [
+      3,
+      7
+    ],
+    "relevance_scores": {
+      "3": 5,
+      "7": 4
+    }
+  },
+  "q2": {
+    "user_skills": "Html, Css, Javascript, React",
+    "relevant_ids": [
+      1,
+      2
+    ],
+    "relevance_scores": {
+      "1": 5,
+      "2": 4
+    }
+  },
+  "q3": {
+    "user_skills": "amazon web services, Docker, Kubernetes, Linux",
+    "relevant_ids": [
+      5,
+      6
+    ],
+    "relevance_scores": {
+      "5": 5,
+      "6": 4
+    }
+  },
+  "q4": {
+    "user_skills": "Android, Kotlin, Firebase",
+    "relevant_ids": [
+      9,
+      12
+    ],
+    "relevance_scores": {
+      "9": 5,
+      "12": 4
+    }
+  },
+  "q5": {
+    "user_skills": "Cybersecurity, Networking, Linux",
+    "relevant_ids": [
+      4,
+      44
+    ],
+    "relevance_scores": {
+      "4": 5,
+      "44": 4
+    }
+  }
+}

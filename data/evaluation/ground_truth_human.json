@@ -1,0 +1,142 @@
+{
+  "hq1": {
+    "user_skills": "Python, Machine Learning, pandas, Sql",
+    "relevant_ids": [
+      3,
+      7,
+      8,
+      15,
+      1,
+      2
+    ],
+    "relevance_scores": {
+      "3": 5,
+      "7": 4,
+      "8": 4,
+      "15": 3,
+      "1": 0,
+      "2": 0
+    }
+  },
+  "hq2": {
+    "user_skills": "Html, Css, Javascript, React",
+    "relevant_ids": [
+      1,
+      67,
+      98,
+      51,
+      3,
+      4
+    ],
+    "relevance_scores": {
+      "1": 4,
+      "67": 5,
+      "98": 5,
+      "51": 4,
+      "3": 0,
+      "4": 0
+    }
+  },
+  "hq3": {
+    "user_skills": "amazon web services, Docker, Kubernetes, Linux",
+    "relevant_ids": [
+      5,
+      6,
+      16,
+      1,
+      7
+    ],
+    "relevance_scores": {
+      "5": 5,
+      "6": 4,
+      "16": 2,
+      "1": 0,
+      "7": 0
+    }
+  },
+  "hq4": {
+    "user_skills": "Android, Kotlin, Firebase",
+    "relevant_ids": [
+      9,
+      12,
+      23,
+      1,
+      5
+    ],
+    "relevance_scores": {
+      "9": 5,
+      "12": 1,
+      "23": 3,
+      "1": 0,
+      "5": 0
+    }
+  },
+  "hq5": {
+    "user_skills": "Cybersecurity, Linux, Networking",
+    "relevant_ids": [
+      4,
+      44,
+      5,
+      1,
+      7
+    ],
+    "relevance_scores": {
+      "4": 5,
+      "44": 4,
+      "5": 2,
+      "1": 0,
+      "7": 0
+    }
+  },
+  "hq6": {
+    "user_skills": "Python, Django, Rest Api, Postgresql",
+    "relevant_ids": [
+      56,
+      60,
+      133,
+      1,
+      3
+    ],
+    "relevance_scores": {
+      "56": 5,
+      "60": 4,
+      "133": 4,
+      "1": 2,
+      "3": 1
+    }
+  },
+  "hq7": {
+    "user_skills": "Javascript, node.js, Mongodb, Express",
+    "relevant_ids": [
+      189,
+      28,
+      135,
+      1,
+      3
+    ],
+    "relevance_scores": {
+      "189": 5,
+      "28": 3,
+      "135": 3,
+      "1": 2,
+      "3": 0
+    }
+  },
+  "hq8": {
+    "user_skills": "Java, Spring Boot, Sql",
+    "relevant_ids": [
+      9,
+      13,
+      1,
+      3,
+      7
+    ],
+    "relevance_scores": {
+      "9": 3,
+      "13": 2,
+      "1": 2,
+      "3": 0,
+      "7": 0
+    }
+  }
+}

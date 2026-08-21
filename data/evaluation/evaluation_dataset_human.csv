@@ -1,0 +1,43 @@
+query_id,user_skills,user_profile,internship_id,internship_title,relevance_score,relevance_reason
+hq1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,3,Machine Learning Intern,5,"Perfect ML match with Python, ML, Pandas, SQL"
+hq1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,7,Data Analyst Intern,4,Strong Python and Pandas match
+hq1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,8,Data Analyst Intern,4,Strong data analysis match
+hq1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,15,Data Analyst Intern,3,Good Python and SQL match
+hq1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,1,Web Developer Intern,0,No relevant skills
+hq1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,2,Backend Developer Intern,0,No relevant skills
+hq2,"Html, Css, Javascript, React",Frontend developer seeking React roles,1,Web Developer Intern,4,Strong web dev match
+hq2,"Html, Css, Javascript, React",Frontend developer seeking React roles,67,Full Stack Developer Intern,5,Perfect React match
+hq2,"Html, Css, Javascript, React",Frontend developer seeking React roles,98,Frontend Developer Intern,5,Perfect frontend match
+hq2,"Html, Css, Javascript, React",Frontend developer seeking React roles,51,Frontend Developer Intern,4,Strong frontend match
+hq2,"Html, Css, Javascript, React",Frontend developer seeking React roles,3,Machine Learning Intern,0,No relevant skills
+hq2,"Html, Css, Javascript, React",Frontend developer seeking React roles,4,Security Analyst Intern,0,No relevant skills
+hq3,"amazon web services, Docker, Kubernetes, Linux",DevOps engineer looking for cloud roles,5,DevOps Intern,5,Perfect DevOps match
+hq3,"amazon web services, Docker, Kubernetes, Linux",DevOps engineer looking for cloud roles,6,Cloud Computing Intern,4,Strong cloud match
+hq3,"amazon web services, Docker, Kubernetes, Linux",DevOps engineer looking for cloud roles,16,IoT Engineer Intern,2,Some Linux overlap
+hq3,"amazon web services, Docker, Kubernetes, Linux",DevOps engineer looking for cloud roles,1,Web Developer Intern,0,No relevant skills
+hq3,"amazon web services, Docker, Kubernetes, Linux",DevOps engineer looking for cloud roles,7,Data Analyst Intern,0,No relevant skills
+hq4,"Android, Kotlin, Firebase",Mobile developer seeking Android roles,9,Android Developer Intern,5,Perfect Android match
+hq4,"Android, Kotlin, Firebase",Mobile developer seeking Android roles,12,iOS Developer Intern,1,Mobile but wrong platform
+hq4,"Android, Kotlin, Firebase",Mobile developer seeking Android roles,23,Flutter Developer Intern,3,Mobile development overlap
+hq4,"Android, Kotlin, Firebase",Mobile developer seeking Android roles,1,Web Developer Intern,0,No relevant skills
+hq4,"Android, Kotlin, Firebase",Mobile developer seeking Android roles,5,DevOps Intern,0,No relevant skills
+hq5,"Cybersecurity, Linux, Networking",Security enthusiast seeking cybersecurity roles,4,Security Analyst Intern,5,Perfect security match
+hq5,"Cybersecurity, Linux, Networking",Security enthusiast seeking cybersecurity roles,44,Network Security Intern,4,Strong network security match
+hq5,"Cybersecurity, Linux, Networking",Security enthusiast seeking cybersecurity roles,5,DevOps Intern,2,Some Linux overlap
+hq5,"Cybersecurity, Linux, Networking",Security enthusiast seeking cybersecurity roles,1,Web Developer Intern,0,No relevant skills
+hq5,"Cybersecurity, Linux, Networking",Security enthusiast seeking cybersecurity roles,7,Data Analyst Intern,0,No relevant skills
+hq6,"Python, Django, Rest Api, Postgresql",Python backend developer,56,Backend Developer Intern,5,Perfect Python backend match
+hq6,"Python, Django, Rest Api, Postgresql",Python backend developer,60,Backend Developer Intern,4,Strong backend match
+hq6,"Python, Django, Rest Api, Postgresql",Python backend developer,133,Backend Developer Intern,4,Strong backend match
+hq6,"Python, Django, Rest Api, Postgresql",Python backend developer,1,Web Developer Intern,2,Some web overlap
+hq6,"Python, Django, Rest Api, Postgresql",Python backend developer,3,Machine Learning Intern,1,Python overlap but wrong domain
+hq7,"Javascript, node.js, Mongodb, Express",MERN stack developer,189,Full Stack Developer Intern,5,Perfect MERN match
+hq7,"Javascript, node.js, Mongodb, Express",MERN stack developer,28,Frontend Developer Intern,3,JavaScript and Node.js overlap
+hq7,"Javascript, node.js, Mongodb, Express",MERN stack developer,135,Frontend Developer Intern,3,JavaScript overlap
+hq7,"Javascript, node.js, Mongodb, Express",MERN stack developer,1,Web Developer Intern,2,Some web tech overlap
+hq7,"Javascript, node.js, Mongodb, Express",MERN stack developer,3,Machine Learning Intern,0,No relevant skills
+hq8,"Java, Spring Boot, Sql",Java backend developer,9,Android Developer Intern,3,Java overlap
+hq8,"Java, Spring Boot, Sql",Java backend developer,13,Embedded Systems Intern,2,Some Java overlap
+hq8,"Java, Spring Boot, Sql",Java backend developer,1,Web Developer Intern,2,Some web overlap
+hq8,"Java, Spring Boot, Sql",Java backend developer,3,Machine Learning Intern,0,No relevant skills
+hq8,"Java, Spring Boot, Sql",Java backend developer,7,Data Analyst Intern,0,No relevant skills

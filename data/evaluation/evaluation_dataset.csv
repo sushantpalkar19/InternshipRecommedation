@@ -1,0 +1,11 @@
+query_id,user_skills,user_profile,internship_id,internship_title,relevance_score,relevance_reason
+q1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,3,Machine Learning Intern,5,Perfect skill match
+q1,"Python, Machine Learning, pandas, Sql",Data Science student looking for ML internships,7,Data Analyst Intern,4,Strong ML and Python match
+q2,"Html, Css, Javascript, React",Frontend developer seeking web development roles,1,Web Developer Intern,5,Perfect web dev match
+q2,"Html, Css, Javascript, React",Frontend developer seeking web development roles,2,Backend Developer Intern,4,Strong web dev match
+q3,"amazon web services, Docker, Kubernetes, Linux",DevOps engineer looking for cloud roles,5,DevOps Intern,5,Perfect DevOps match
+q3,"amazon web services, Docker, Kubernetes, Linux",DevOps engineer looking for cloud roles,6,Cloud Computing Intern,4,Strong cloud match
+q4,"Android, Kotlin, Firebase",Mobile developer seeking Android roles,9,Android Developer Intern,5,Perfect mobile match
+q4,"Android, Kotlin, Firebase",Mobile developer seeking Android roles,12,iOS Developer Intern,4,Strong mobile match
+q5,"Cybersecurity, Networking, Linux",Security enthusiast seeking cybersecurity roles,4,Security Analyst Intern,5,Perfect security match
+q5,"Cybersecurity, Networking, Linux",Security enthusiast seeking cybersecurity roles,44,Network Security Intern,4,Strong security match

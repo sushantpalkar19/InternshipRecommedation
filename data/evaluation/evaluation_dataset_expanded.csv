@@ -1,0 +1,272 @@
+query_id,user_skills,user_profile,domain,internship_id,internship_title,relevance_score,relevance_reason
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,67,Full Stack Developer Intern,5,Skill overlap: 0.75
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,98,Frontend Developer Intern,5,Skill overlap: 0.75
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,51,Frontend Developer Intern,4,Skill overlap: 0.50
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,56,Backend Developer Intern,4,Skill overlap: 0.50
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,60,Web Developer Intern,4,Skill overlap: 0.50
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,93,Frontend Developer Intern,4,Skill overlap: 0.50
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,128,Frontend Developer Intern,4,Skill overlap: 0.50
+q1,"Html, Css, Javascript, React",Frontend developer seeking React roles,Web Development,133,Backend Developer Intern,4,Skill overlap: 0.50
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,189,Full Stack Developer Intern,5,Skill overlap: 0.75
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,28,Frontend Developer Intern,4,Skill overlap: 0.50
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,98,Frontend Developer Intern,4,Skill overlap: 0.50
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,135,Frontend Developer Intern,4,Skill overlap: 0.50
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,166,Full Stack Developer Intern,4,Skill overlap: 0.50
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,176,Frontend Developer Intern,4,Skill overlap: 0.50
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,1,Web Developer Intern,2,Skill overlap: 0.25
+q2,"Javascript, node.js, Mongodb, Express",MERN stack developer,Web Development,25,Backend Developer Intern,2,Skill overlap: 0.25
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,1,Web Developer Intern,4,Skill overlap: 0.50
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,25,Backend Developer Intern,4,Skill overlap: 0.50
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,56,Backend Developer Intern,4,Skill overlap: 0.50
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,60,Web Developer Intern,4,Skill overlap: 0.50
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,67,Full Stack Developer Intern,4,Skill overlap: 0.50
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,134,Frontend Developer Intern,4,Skill overlap: 0.50
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,154,Frontend Developer Intern,4,Skill overlap: 0.50
+q3,"Java, Spring Boot, Rest Api, Sql",Java backend developer,Web Development,2,Backend Developer Intern,2,Skill overlap: 0.25
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,28,Frontend Developer Intern,5,Skill overlap: 0.67
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,60,Web Developer Intern,5,Skill overlap: 1.00
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,93,Frontend Developer Intern,5,Skill overlap: 0.67
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,131,Web Developer Intern,5,Skill overlap: 1.00
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,135,Frontend Developer Intern,5,Skill overlap: 0.67
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,166,Full Stack Developer Intern,5,Skill overlap: 0.67
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,176,Frontend Developer Intern,5,Skill overlap: 1.00
+q5,"Angular, Typescript, Javascript",Angular frontend developer,Web Development,184,Backend Developer Intern,5,Skill overlap: 0.67
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,3,Machine Learning Intern,5,Skill overlap: 0.80
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,24,Data Analyst Intern,5,Skill overlap: 0.60
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,27,Data Science Intern,5,Skill overlap: 0.60
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,30,AI Research Intern,5,Skill overlap: 0.60
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,47,ML Engineer Intern,5,Skill overlap: 0.60
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,88,Machine Learning Intern,5,Skill overlap: 0.80
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,185,AI Research Intern,5,Skill overlap: 0.60
+q6,"Python, Machine Learning, pandas, numpy, Scikit-Learn",ML engineer seeking data science roles,Machine Learning,187,AI Research Intern,5,Skill overlap: 0.60
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,52,Data Science Intern,5,Skill overlap: 0.75
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,140,Machine Learning Intern,5,Skill overlap: 0.75
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,3,Machine Learning Intern,4,Skill overlap: 0.50
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,29,Machine Learning Intern,4,Skill overlap: 0.50
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,106,Machine Learning Intern,4,Skill overlap: 0.50
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,161,Machine Learning Intern,4,Skill overlap: 0.50
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,45,AI Research Intern,2,Skill overlap: 0.25
+q7,"Python, Tensorflow, Deep Learning, Neural Networks",Deep learning engineer,AI,48,AI Research Intern,2,Skill overlap: 0.25
+q8,"Python, natural language processing, Nltk",NLP engineer,AI,3,Machine Learning Intern,3,Skill overlap: 0.33
+q8,"Python, natural language processing, Nltk",NLP engineer,AI,52,Data Science Intern,3,Skill overlap: 0.33
+q8,"Python, natural language processing, Nltk",NLP engineer,AI,88,Machine Learning Intern,3,Skill overlap: 0.33
+q8,"Python, natural language processing, Nltk",NLP engineer,AI,104,ML Engineer Intern,3,Skill overlap: 0.33
+q8,"Python, natural language processing, Nltk",NLP engineer,AI,140,Machine Learning Intern,3,Skill overlap: 0.33
+q8,"Python, natural language processing, Nltk",NLP engineer,AI,161,Machine Learning Intern,3,Skill overlap: 0.33
+q8,"Python, natural language processing, Nltk",NLP engineer,AI,187,AI Research Intern,3,Skill overlap: 0.33
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,88,Machine Learning Intern,4,Skill overlap: 0.50
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,187,AI Research Intern,4,Skill overlap: 0.50
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,3,Machine Learning Intern,2,Skill overlap: 0.25
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,45,AI Research Intern,2,Skill overlap: 0.25
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,48,AI Research Intern,2,Skill overlap: 0.25
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,52,Data Science Intern,2,Skill overlap: 0.25
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,104,ML Engineer Intern,2,Skill overlap: 0.25
+q9,"Python, Computer Vision, Opencv, pytorch",Computer vision engineer,AI,106,Machine Learning Intern,2,Skill overlap: 0.25
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,7,Data Analyst Intern,5,Skill overlap: 0.60
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,8,Data Analyst Intern,5,Skill overlap: 0.60
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,15,Data Analyst Intern,5,Skill overlap: 0.60
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,17,Analytics Intern,5,Skill overlap: 1.00
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,23,Analytics Intern,5,Skill overlap: 0.60
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,24,Data Analyst Intern,5,Skill overlap: 0.80
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,33,Data Analyst Intern,5,Skill overlap: 0.60
+q10,"Python, pandas, Sql, Data Visualization, Statistics",Data analyst,Data Analysis,49,Data Analyst Intern,5,Skill overlap: 0.60
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,30,AI Research Intern,5,Skill overlap: 0.75
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,3,Machine Learning Intern,4,Skill overlap: 0.50
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,17,Analytics Intern,4,Skill overlap: 0.50
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,23,Analytics Intern,4,Skill overlap: 0.50
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,24,Data Analyst Intern,4,Skill overlap: 0.50
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,26,AI Research Intern,4,Skill overlap: 0.50
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,31,AI Research Intern,4,Skill overlap: 0.50
+q11,"Python, R, Statistics, Machine Learning",Data scientist,Data Science,46,Data Analyst Intern,4,Skill overlap: 0.50
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,7,Data Analyst Intern,5,Skill overlap: 0.80
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,17,Analytics Intern,5,Skill overlap: 0.60
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,21,Analytics Intern,5,Skill overlap: 1.00
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,46,Data Analyst Intern,5,Skill overlap: 0.80
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,49,Data Analyst Intern,5,Skill overlap: 0.80
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,81,Data Analyst Intern,5,Skill overlap: 0.80
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,91,Data Analyst Intern,5,Skill overlap: 0.60
+q12,"Python, Sql, Excel, Power Bi, Tableau",Business intelligence analyst,Data Analysis,168,Data Analyst Intern,5,Skill overlap: 0.80
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,65,Cloud Computing Intern,5,Skill overlap: 0.75
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,116,Cloud Computing Intern,5,Skill overlap: 0.75
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,118,DevOps Intern,5,Skill overlap: 0.75
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,5,DevOps Intern,4,Skill overlap: 0.50
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,89,DevOps Intern,4,Skill overlap: 0.50
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,103,DevOps Intern,4,Skill overlap: 0.50
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,150,Cloud Computing Intern,4,Skill overlap: 0.50
+q13,"amazon web services, Docker, Kubernetes, Ci/Cd",AWS DevOps engineer,Cloud,152,Site Reliability Engineer Intern,4,Skill overlap: 0.50
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,22,DevOps Intern,4,Skill overlap: 0.50
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,36,Cloud Computing Intern,4,Skill overlap: 0.50
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,143,DevOps Intern,4,Skill overlap: 0.50
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,149,DevOps Intern,4,Skill overlap: 0.50
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,174,Cloud Computing Intern,4,Skill overlap: 0.50
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,5,DevOps Intern,2,Skill overlap: 0.25
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,6,Cloud Computing Intern,2,Skill overlap: 0.25
+q14,"microsoft azure, Devops, Terraform, Ansible",Azure cloud engineer,Cloud,41,Cloud Computing Intern,2,Skill overlap: 0.25
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,22,DevOps Intern,4,Skill overlap: 0.50
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,152,Site Reliability Engineer Intern,4,Skill overlap: 0.50
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,170,DevOps Intern,4,Skill overlap: 0.50
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,5,DevOps Intern,2,Skill overlap: 0.25
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,65,Cloud Computing Intern,2,Skill overlap: 0.25
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,103,DevOps Intern,2,Skill overlap: 0.25
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,116,Cloud Computing Intern,2,Skill overlap: 0.25
+q15,"google cloud platform, Kubernetes, Helm, Linux",GCP cloud engineer,Cloud,117,Site Reliability Engineer Intern,2,Skill overlap: 0.25
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,36,Cloud Computing Intern,5,Skill overlap: 0.60
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,89,DevOps Intern,5,Skill overlap: 0.60
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,116,Cloud Computing Intern,5,Skill overlap: 0.60
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,117,Site Reliability Engineer Intern,5,Skill overlap: 0.60
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,152,Site Reliability Engineer Intern,5,Skill overlap: 0.80
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,5,DevOps Intern,4,Skill overlap: 0.40
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,22,DevOps Intern,4,Skill overlap: 0.40
+q16,"Linux, Bash, Jenkins, Git, Ci/Cd",DevOps engineer,DevOps,40,Site Reliability Engineer Intern,4,Skill overlap: 0.40
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,65,Cloud Computing Intern,4,Skill overlap: 0.50
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,116,Cloud Computing Intern,4,Skill overlap: 0.50
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,118,DevOps Intern,4,Skill overlap: 0.50
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,170,DevOps Intern,4,Skill overlap: 0.50
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,172,DevOps Intern,4,Skill overlap: 0.50
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,5,DevOps Intern,2,Skill overlap: 0.25
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,22,DevOps Intern,2,Skill overlap: 0.25
+q17,"Docker, Kubernetes, Prometheus, Grafana",Container orchestration engineer,DevOps,41,Cloud Computing Intern,2,Skill overlap: 0.25
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,127,Cybersecurity Intern,5,Skill overlap: 0.75
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,138,Security Analyst Intern,5,Skill overlap: 0.75
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,163,Security Analyst Intern,5,Skill overlap: 0.75
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,195,Security Analyst Intern,5,Skill overlap: 0.75
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,197,Network Security Intern,5,Skill overlap: 0.75
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,4,Security Analyst Intern,4,Skill overlap: 0.50
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,44,Network Security Intern,4,Skill overlap: 0.50
+q18,"Cybersecurity, Network Security, Firewalls, Linux",Cybersecurity analyst,Cybersecurity,62,Security Analyst Intern,4,Skill overlap: 0.50
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,62,Security Analyst Intern,5,Skill overlap: 0.67
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,75,Network Security Intern,5,Skill overlap: 0.67
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,77,Cybersecurity Intern,5,Skill overlap: 0.67
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,95,Cybersecurity Intern,5,Skill overlap: 0.67
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,108,Network Security Intern,5,Skill overlap: 0.67
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,147,Cybersecurity Intern,5,Skill overlap: 1.00
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,158,Network Security Intern,5,Skill overlap: 0.67
+q19,"Penetration Testing, Ethical Hacking, Python",Penetration tester,Cybersecurity,169,Security Analyst Intern,5,Skill overlap: 0.67
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,4,Security Analyst Intern,5,Skill overlap: 0.75
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,62,Security Analyst Intern,5,Skill overlap: 0.75
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,108,Network Security Intern,5,Skill overlap: 0.75
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,127,Cybersecurity Intern,5,Skill overlap: 0.75
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,147,Cybersecurity Intern,5,Skill overlap: 0.75
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,158,Network Security Intern,5,Skill overlap: 0.75
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,195,Security Analyst Intern,5,Skill overlap: 0.75
+q20,"Siem, Security Operations, Linux, Python",SOC analyst,Cybersecurity,66,Security Analyst Intern,4,Skill overlap: 0.50
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,9,Android Developer Intern,5,Skill overlap: 0.75
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,37,Mobile App Developer Intern,5,Skill overlap: 0.75
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,114,iOS Developer Intern,5,Skill overlap: 0.75
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,141,Mobile App Developer Intern,5,Skill overlap: 0.75
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,159,iOS Developer Intern,5,Skill overlap: 0.75
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,32,Android Developer Intern,4,Skill overlap: 0.50
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,38,iOS Developer Intern,4,Skill overlap: 0.50
+q21,"Android, Kotlin, Java, Firebase",Android developer,Mobile Development,54,Android Developer Intern,4,Skill overlap: 0.50
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,12,iOS Developer Intern,4,Skill overlap: 0.50
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,92,iOS Developer Intern,4,Skill overlap: 0.50
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,119,Mobile App Developer Intern,4,Skill overlap: 0.50
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,144,Mobile App Developer Intern,4,Skill overlap: 0.50
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,165,iOS Developer Intern,4,Skill overlap: 0.50
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,38,iOS Developer Intern,2,Skill overlap: 0.25
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,39,iOS Developer Intern,2,Skill overlap: 0.25
+q22,"Ios, Swift, Swift Ui, Objective-C",iOS developer,Mobile Development,76,Mobile App Developer Intern,2,Skill overlap: 0.25
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,9,Android Developer Intern,4,Skill overlap: 0.50
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,37,Mobile App Developer Intern,4,Skill overlap: 0.50
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,92,iOS Developer Intern,4,Skill overlap: 0.50
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,105,Mobile App Developer Intern,4,Skill overlap: 0.50
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,111,Android Developer Intern,4,Skill overlap: 0.50
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,114,iOS Developer Intern,4,Skill overlap: 0.50
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,141,Mobile App Developer Intern,4,Skill overlap: 0.50
+q23,"Flutter, Dart, Mobile Development, Firebase",Flutter developer,Mobile Development,144,Mobile App Developer Intern,4,Skill overlap: 0.50
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,141,Mobile App Developer Intern,5,Skill overlap: 0.67
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,32,Android Developer Intern,3,Skill overlap: 0.33
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,37,Mobile App Developer Intern,3,Skill overlap: 0.33
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,38,iOS Developer Intern,3,Skill overlap: 0.33
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,39,iOS Developer Intern,3,Skill overlap: 0.33
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,54,Android Developer Intern,3,Skill overlap: 0.33
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,105,Mobile App Developer Intern,3,Skill overlap: 0.33
+q24,"React Native, Javascript, Mobile Development",React Native developer,Mobile Development,111,Android Developer Intern,3,Skill overlap: 0.33
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,19,Embedded Systems Intern,4,Skill overlap: 0.50
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,43,IoT Engineer Intern,4,Skill overlap: 0.50
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,53,IoT Developer Intern,4,Skill overlap: 0.50
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,64,Embedded Systems Intern,4,Skill overlap: 0.50
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,78,Embedded Systems Intern,4,Skill overlap: 0.50
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,122,Embedded Systems Intern,4,Skill overlap: 0.50
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,130,Embedded Systems Intern,4,Skill overlap: 0.50
+q25,"Arduino, cpp, Embedded Systems, Sensors",Embedded systems engineer,IoT,155,IoT Developer Intern,4,Skill overlap: 0.50
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,121,IoT Developer Intern,5,Skill overlap: 0.75
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,130,Embedded Systems Intern,5,Skill overlap: 0.75
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,200,IoT Developer Intern,5,Skill overlap: 0.75
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,13,Embedded Systems Intern,4,Skill overlap: 0.50
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,20,IoT Developer Intern,4,Skill overlap: 0.50
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,43,IoT Engineer Intern,4,Skill overlap: 0.50
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,55,IoT Engineer Intern,4,Skill overlap: 0.50
+q26,"Raspberry Pi, Python, Iot, Mqtt",IoT developer,IoT,58,Embedded Systems Intern,4,Skill overlap: 0.50
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,1,Web Developer Intern,2,Skill overlap: 0.25
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,25,Backend Developer Intern,2,Skill overlap: 0.25
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,51,Frontend Developer Intern,2,Skill overlap: 0.25
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,56,Backend Developer Intern,2,Skill overlap: 0.25
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,60,Web Developer Intern,2,Skill overlap: 0.25
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,67,Full Stack Developer Intern,2,Skill overlap: 0.25
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,101,Full Stack Developer Intern,2,Skill overlap: 0.25
+q27,"Sql, Postgresql, mysql, Database Administration",Database administrator,Database,112,Web Developer Intern,2,Skill overlap: 0.25
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,166,Full Stack Developer Intern,4,Skill overlap: 0.50
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,176,Frontend Developer Intern,4,Skill overlap: 0.50
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,189,Full Stack Developer Intern,4,Skill overlap: 0.50
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,1,Web Developer Intern,2,Skill overlap: 0.25
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,25,Backend Developer Intern,2,Skill overlap: 0.25
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,28,Frontend Developer Intern,2,Skill overlap: 0.25
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,60,Web Developer Intern,2,Skill overlap: 0.25
+q28,"Mongodb, Nosql, Database, Javascript",NoSQL database engineer,Database,93,Frontend Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,1,Web Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,2,Backend Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,25,Backend Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,28,Frontend Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,56,Backend Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,60,Web Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,67,Full Stack Developer Intern,2,Skill overlap: 0.25
+q29,"Python, Django, Rest Api, Postgresql",Python backend developer,Backend,86,Backend Developer Intern,2,Skill overlap: 0.25
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,189,Full Stack Developer Intern,5,Skill overlap: 0.75
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,28,Frontend Developer Intern,4,Skill overlap: 0.50
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,98,Frontend Developer Intern,4,Skill overlap: 0.50
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,135,Frontend Developer Intern,4,Skill overlap: 0.50
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,166,Full Stack Developer Intern,4,Skill overlap: 0.50
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,176,Frontend Developer Intern,4,Skill overlap: 0.50
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,1,Web Developer Intern,2,Skill overlap: 0.25
+q30,"node.js, Express, Mongodb, Javascript",Node.js backend developer,Backend,25,Backend Developer Intern,2,Skill overlap: 0.25
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,3,Machine Learning Intern,5,Skill overlap: 0.75
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,7,Data Analyst Intern,4,Skill overlap: 0.50
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,17,Analytics Intern,4,Skill overlap: 0.50
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,21,Analytics Intern,4,Skill overlap: 0.50
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,26,AI Research Intern,4,Skill overlap: 0.50
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,30,AI Research Intern,4,Skill overlap: 0.50
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,49,Data Analyst Intern,4,Skill overlap: 0.50
+q31,"Python, Machine Learning, Sql, Django",Full stack ML engineer,Mixed,84,ML Engineer Intern,4,Skill overlap: 0.50
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,98,Frontend Developer Intern,5,Skill overlap: 0.75
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,135,Frontend Developer Intern,5,Skill overlap: 0.75
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,189,Full Stack Developer Intern,5,Skill overlap: 0.75
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,28,Frontend Developer Intern,4,Skill overlap: 0.50
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,51,Frontend Developer Intern,4,Skill overlap: 0.50
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,56,Backend Developer Intern,4,Skill overlap: 0.50
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,60,Web Developer Intern,4,Skill overlap: 0.50
+q32,"Javascript, React, node.js, Mongodb",MERN full stack developer,Mixed,128,Frontend Developer Intern,4,Skill overlap: 0.50
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,9,Android Developer Intern,2,Skill overlap: 0.25
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,32,Android Developer Intern,2,Skill overlap: 0.25
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,37,Mobile App Developer Intern,2,Skill overlap: 0.25
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,38,iOS Developer Intern,2,Skill overlap: 0.25
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,41,Cloud Computing Intern,2,Skill overlap: 0.25
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,54,Android Developer Intern,2,Skill overlap: 0.25
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,65,Cloud Computing Intern,2,Skill overlap: 0.25
+q33,"Java, Spring Boot, amazon web services, Docker",Java cloud developer,Mixed,89,DevOps Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,3,Machine Learning Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,4,Security Analyst Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,7,Data Analyst Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,13,Embedded Systems Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,17,Analytics Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,19,Embedded Systems Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,20,IoT Developer Intern,2,Skill overlap: 0.25
+q34,"Python, amazon web services, Lambda, Serverless",Serverless engineer,Mixed,21,Analytics Intern,2,Skill overlap: 0.25
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,114,iOS Developer Intern,5,Skill overlap: 0.75
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,9,Android Developer Intern,4,Skill overlap: 0.50
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,37,Mobile App Developer Intern,4,Skill overlap: 0.50
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,59,iOS Developer Intern,4,Skill overlap: 0.50
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,76,Mobile App Developer Intern,4,Skill overlap: 0.50
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,92,iOS Developer Intern,4,Skill overlap: 0.50
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,105,Mobile App Developer Intern,4,Skill overlap: 0.50
+q35,"Android, Kotlin, Firebase, Machine Learning",Android ML engineer,Mixed,141,Mobile App Developer Intern,4,Skill overlap: 0.50
